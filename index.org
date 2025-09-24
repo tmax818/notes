@@ -1,2 +1,8 @@
 #+title: Tyler's Notes
-#+author: Tyler
+#+author: Tyler Maxwell
+
+
+| topic | notes                                    |
+|-------+------------------------------------------|
+| HRE   | it was neither Holy, Roman, or an Empire |
+|       |                                          |
