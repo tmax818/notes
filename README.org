@@ -2,4 +2,4 @@
 #+author: tmax818
 
 
-* notes
+This will be the single repository(bucket) for my notes...I think.
