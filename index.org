@@ -2,7 +2,7 @@
 #+author: Tyler Maxwell
 
 
-* ruby
+* [[file:content/ruby/index.org][ruby]]
 * chemistry
 * computer science
 * lisp
