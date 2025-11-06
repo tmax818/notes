@@ -1,11 +1,28 @@
-#+title: Tyler's Notes
+#+title: Notes
 #+author: Tyler Maxwell
+#+startup: indent
 
 
-* [[file:content/ruby/index.org][ruby]]
+
 * chemistry
-* computer science
-* lisp
+* computerScience
+** programmingLanguages
+*** [[file:content/ruby/index.org][Ruby]]
+*** C
+*** Python
+*** lisp
+*** [[./content/elisp.org][elisp]]
+* facism
+* LAUSD
 * mathematics
-* reading notes
+* PACS
+* people
+** erin
+** karen
+** sparkyWho
+* physics
+* readingNotes
+* [[./README.org][README.org]]
+* SantaClarita
+* teaching
 * zettelkasten
