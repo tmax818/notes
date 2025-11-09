@@ -3,6 +3,7 @@
 #+startup: indent
 
 * topics
+** elisp
 ** aristotle
 ** assholes
 ** books
@@ -56,7 +57,7 @@
 ** teaching
 ** [[./content/texinfo/index.org][texinfo]]
 ** thales
-** theTeachingCompany
+** TeachingCompany
 ** thought
 ** ucla
 ** writing
