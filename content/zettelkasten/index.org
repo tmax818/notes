@@ -1,0 +1,3 @@
+#+title: zettelkasten
+
+* [[https://en.wikipedia.org/wiki/Memex][memex]]

@@ -1,0 +1,8 @@
+\input texinfo   @c -*-texinfo-*-
+@setfilename sample.info
+@settitle Sample Document\input texinfo
+
+Test
+
+
+@bye
