@@ -3,26 +3,27 @@
 #+startup: indent
 
 * topics
+
 ** aristotle
 ** assholes
 ** books
 ** calculus
 ** [[./content/chemistry/index.org][chemistry]]
 ** computerScience
-** [[./content/emacs/index.org][emacs]]
 ** contactLenses
 ** cProgramming
 ** criticalThinking
 ** democracy
 ** ebooks
 ** electronics
+** [[./content/emacs/index.org][emacs]]
 ** erin
 ** facism
 ** fatherhood
 ** geometry
 ** hamRadio
 ** history
-** journal
+** [[./content/journal/index.org][journal]]
 ** karen
 ** LAUSD
 ** law
@@ -38,7 +39,6 @@
 ** organicChemistry
 ** PACS
 ** people
-** ucla
 ** philosophy
 ** physics
 ** planning
@@ -53,8 +53,10 @@
 ** science
 ** sparkyWho
 ** teaching
+** [[./content/texinfo/index.org][texinfo]]
 ** thales
 ** theTeachingCompany
 ** thought
+** ucla
 ** writing
 ** [[./content/zettelkasten/index.org][zettelkasten]]

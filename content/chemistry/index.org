@@ -1,5 +1,5 @@
 #+title: Chemistry
 
-* generalChemistry
+* [[./generalChemistry/index.org][generalChemistry]]
 
 * organicChemistry
