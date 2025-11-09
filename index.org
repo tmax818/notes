@@ -2,8 +2,7 @@
 #+author: Tyler Maxwell
 #+startup: indent
 
-* topics
-** elisp
+* [[./content/index.org][content]]
 ** aristotle
 ** assholes
 ** books
@@ -16,6 +15,7 @@
 ** democracy
 ** ebooks
 ** electronics
+** [[./content/elisp/index.org][elisp]]
 ** [[./content/emacs/index.org][emacs]]
 ** erin
 ** facism
@@ -36,12 +36,13 @@
 ** mathematics
 ** memex
 ** network
+** [[./content/newtonsLaws/index.org][newtonsLaws]]
 ** notes
 ** organicChemistry
 ** PACS
 ** people
 ** philosophy
-** physics
+** [[./content/physics/index.org][physics]]
 ** planning
 ** plato
 ** programmingLanguages
@@ -55,9 +56,9 @@
 ** science
 ** sparkyWho
 ** teaching
+** TeachingCompany
 ** [[./content/texinfo/index.org][texinfo]]
 ** thales
-** TeachingCompany
 ** thought
 ** ucla
 ** writing
