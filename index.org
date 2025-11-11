@@ -39,6 +39,7 @@
 ** [[./content/newtonsLaws/index.org][newtonsLaws]]
 ** notes
 ** organicChemistry
+** [[./content/orgmode/index.org][orgmode]]
 ** PACS
 ** people
 ** philosophy

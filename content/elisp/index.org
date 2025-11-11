@@ -1,2 +1,14 @@
 #+title: elisp
 
+* helloWorld
+
+#+begin_src elisp
+  (message "Hello, World!")
+#+end_src
+
+Typed <C-c C-c> and got this:
+
+#+RESULTS:
+: Hello, World!
+
+There is so much!

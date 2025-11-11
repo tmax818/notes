@@ -1,0 +1,8 @@
+#+title:      testNewDir
+#+date:       [2025-11-09 Sun 22:07]
+#+filetags:   :emacs:
+#+identifier: 20251109T220732
+
+okay
+
+lets try to link: [[denote:20251109T221135][test]]
