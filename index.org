@@ -13,6 +13,7 @@
 ** cProgramming
 ** criticalThinking
 ** democracy
+** denote
 ** ebooks
 ** electronics
 ** [[./content/elisp/index.org][elisp]]

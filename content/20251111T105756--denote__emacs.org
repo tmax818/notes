@@ -1,0 +1,5 @@
+#+title:      denote
+#+date:       [2025-11-11 Tue 10:57]
+#+filetags:   :emacs:
+#+identifier: 20251111T105756
+
