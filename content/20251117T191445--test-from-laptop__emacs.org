@@ -1,0 +1,5 @@
+#+title:      test from laptop
+#+date:       [2025-11-17 Mon 19:14]
+#+filetags:   :emacs:
+#+identifier: 20251117T191445
+

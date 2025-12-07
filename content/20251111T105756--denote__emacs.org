@@ -3,3 +3,4 @@
 #+filetags:   :emacs:
 #+identifier: 20251111T105756
 
+Yeah. I now have a [[denote:20251123T124822][duplciate]] of this note. This is the problem I am having. 

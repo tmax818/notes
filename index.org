@@ -2,14 +2,20 @@
 #+author: Tyler Maxwell
 #+startup: indent
 
+* introduction
+
+I'm having trouble with [[denote:20251111T105756][denote]]. I seem to be having trouble making a start. 
+
+
 * [[./content/index.org][content]]
 ** aristotle
 ** assholes
+** bash
 ** books
 ** calculus
 ** [[./content/chemistry/index.org][chemistry]]
+** [[file:contents/commandLine/index.org][commandLine]]
 ** computerScience
-** contactLenses
 ** cProgramming
 ** criticalThinking
 ** democracy
@@ -21,15 +27,18 @@
 ** erin
 ** facism
 ** fatherhood
+** friends
 ** generalChemistry
 ** geometry
 ** hamRadio
+** haskell
 ** history
 ** [[./content/journal/index.org][journal]]
 ** karen
 ** LAUSD
 ** law
 ** learning
+** life
 ** lifeLongLearning
 ** lisp
 ** logic
@@ -38,7 +47,7 @@
 ** memex
 ** network
 ** [[./content/newtonsLaws/index.org][newtonsLaws]]
-** notes
+** [[file:content/notes/index.org][notes]]
 ** organicChemistry
 ** [[./content/orgmode/index.org][orgmode]]
 ** PACS
@@ -47,6 +56,7 @@
 ** [[./content/physics/index.org][physics]]
 ** planning
 ** plato
+** procrastination
 ** programmingLanguages
 ** pythagoreanTheorem
 ** python
@@ -56,12 +66,29 @@
 ** [[file:content/ruby/index.org][ruby]]
 ** SantaClarita
 ** science
-** sparkyWho
 ** teaching
 ** TeachingCompany
 ** [[./content/texinfo/index.org][texinfo]]
 ** thales
 ** thought
+** time
 ** ucla
+** wife
 ** writing
 ** [[./content/zettelkasten/index.org][zettelkasten]]
+
+
+
+* fleeting
+
+
+[[https://youtu.be/4x97jqwO5nQ][lazer sound]]
+
+
+
+* TODOs
+
+** new roof
+** TODO Alto Observation
+*** email preobservation form for <2026-02-05 Thu>
+

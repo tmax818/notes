@@ -1,0 +1,5 @@
+\documentclass{standalone}
+
+\begin{document}
+hello, standalone seems to be smushed at the top. What happens if I put it somewhere else?
+\end{document}
