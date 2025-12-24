@@ -17,9 +17,10 @@ In the interest of having a mimimum number of "buckets," This document will serv
 :properties:
 :created: <2025-12-23 Tue>
 :custom_id: modern-philosophy
+:cite: @mod-phil-scruton
 :end:
 
-I like to [cite:book:@scruton-modern-phil] 
+Book citation: [cite:@mod-phil-scruton].
 ** [[file:content/worldOfChemistry/index.org][world of chemistry]]                                                 :book:
 :properties:
 :created: <2025-12-17 Wed>
