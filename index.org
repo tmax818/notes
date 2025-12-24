@@ -3,8 +3,6 @@
 #+startup: indent num
 #+bibliography: bibliography.bib
 
-
-
 * introduction :notes:
 
 In the interest of having a mimimum number of "buckets," This document will serve as a reference for notes. It seems the need for a separate directory for some topics rises immediately (i.e. [[haskell]]). 
@@ -13,41 +11,44 @@ In the interest of having a mimimum number of "buckets," This document will serv
 
 * topics
 
-** modern philosophy                                                  :book:
-:properties:
-:created: <2025-12-23 Tue>
-:custom_id: modern-philosophy
-:cite: @mod-phil-scruton
-:end:
-
-Book citation: [cite:@mod-phil-scruton].
-** [[file:content/worldOfChemistry/index.org][world of chemistry]]                                                 :book:
-:properties:
-:created: <2025-12-17 Wed>
-:custom_id: world-of-chemistry
-:end:
+** lisp                                                :programmingLanguage:
+*** common lisp
 ** [[file:content/chemistry/index.org][chemistry]]                                                     :science:teaching:
 :properties:
 :created: <2025-12-16 Tue>
 :custom_id: chemistry
 :end:
 
-*** [[teaching]]
-** education                                                     :education:
 ** [[file:content/elisp/index.org][elisp]]                                                             :emacs:
 :properties:
 :custom_id: elisp
 :end:
 *** [[info:eintr][intro to emacs]]
+** [[info:emacs][emacs]]
+:properties:
+:created: <2025-12-24 Wed>
+:end:
+#+begin_quote
+Whenever I open Emacs, I feel inspired. Like a craftsman entering his workshop, I feel a realm of possibility open before me. I feel the comfort of an environment that has evolved over time to fit me perfectly—an assortment of packages and key bindings that help me bring ideas to life day after day.
+#+end_quote
+
+** Getting things Done                                                :book:
+:properties:
+:created: <2025-12-23 Tue>
+:custom_id: gtd
+:end:
+
 ** haskell                                                          :coding:
 :properties:
 :created: <2025-12-16 Tue>
 :end:
-** How to Take Smart Notes                                            :book:
+** How to Take Smart Notes                               :book:readingNotes:
 :properties:
 :created:  <2025-12-16 Tue>
 :custom_id: how-to-take-smart-notes
 :end:
+
+citation: [cite:@smart-notes] 
 
 #+begin_quote
 "One cannot think without writing."  
@@ -75,6 +76,13 @@ Note sequences occupy the sweet spot between isolated facts/ideas and continuous
 If your program allows linking to individual blocks within a page, feel free to write whole note sequences on a single page with each block (or paragraph) as a single note. As long as you treat each block (or paragraph) as a stand-alone note, addressable from anywhere else, you keep the granularity of your notes while benefitting from a better overview over an existing thread.
 #+end_quote
 
+** modern philosophy                                                  :book:
+:properties:
+:created: <2025-12-23 Tue>
+:custom_id: modern-philosophy
+:end:
+
+I like to [cite:book:@scruton-modern-phil] 
 ** org-mode                                                          :emacs:
 :properties:
 :created: <2025-12-17 Wed>
@@ -90,6 +98,8 @@ If your program allows linking to individual blocks within a page, feel free to 
 :created: <2025-12-17 Wed>
 :custom_id: physics
 :end:
+
+- [[file:pdfs/fundamentalsPhysics.pdf][fundamentals of physics]]
 ** quotes                                                          :reading:
 :properties:
 :created: <2025-12-16 Tue>
@@ -118,8 +128,11 @@ If your program allows linking to individual blocks within a page, feel free to 
 :created: <2025-12-16 Tue>
 :custom_id: math-of-life-and-death
 :end:
+** [[file:content/worldOfChemistry/index.org][world of chemistry]]                                                 :book:
+:properties:
+:created: <2025-12-17 Wed>
+:custom_id: world-of-chemistry
+:end:
 ** zettelkasten                                                      :notes:
 
-* Bibliography
-
-#+print_bibliography:
+#+printbibliography
