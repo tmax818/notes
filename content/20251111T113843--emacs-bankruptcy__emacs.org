@@ -1,7 +1,0 @@
-#+title:      emacs bankruptcy
-#+date:       [2025-11-11 Tue 11:38]
-#+filetags:   :emacs:confiuration:
-#+identifier: 20251111T113843
-
-
-* [[https://youtu.be/dSlMmCD5quc][emacsBankruptcy]]

@@ -1,4 +1,5 @@
 #+title: elisp
+#+date: <2025-12-14 Sun>
 
 * helloWorld
 
@@ -12,3 +13,5 @@ Typed <C-c C-c> and got this:
 : Hello, World!
 
 There is so much!
+
+

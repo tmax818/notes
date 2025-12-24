@@ -1,6 +1,0 @@
-#+title:      agenda
-#+date:       [2025-11-11 Tue 11:07]
-#+filetags:   :emacs:
-#+identifier: 20251111T110737
-
-* TODO learn emacs

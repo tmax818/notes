@@ -1,0 +1,122 @@
+#+title: notes index.org<notes>
+#+author: Tyler Maxwell
+#+startup: indent num
+#+bibliography: bibliography.bib
+
+
+
+* introduction :notes:
+
+In the interest of having a mimimum number of "buckets," This document will serve as a reference for notes. It seems the need for a separate directory for some topics rises immediately (i.e. [[haskell]]). 
+
+
+
+* topics
+
+** modern philosophy                                                  :book:
+:properties:
+:created: <2025-12-23 Tue>
+:custom_id: modern-philosophy
+:end:
+
+I like to [cite:book:@scruton-modern-phil] 
+** [[file:content/worldOfChemistry/index.org][world of chemistry]]                                                 :book:
+:properties:
+:created: <2025-12-17 Wed>
+:custom_id: world-of-chemistry
+:end:
+** [[file:content/chemistry/index.org][chemistry]]                                                     :science:teaching:
+:properties:
+:created: <2025-12-16 Tue>
+:custom_id: chemistry
+:end:
+
+*** [[teaching]]
+** education                                                     :education:
+** [[file:content/elisp/index.org][elisp]]                                                             :emacs:
+:properties:
+:custom_id: elisp
+:end:
+*** [[info:eintr][intro to emacs]]
+** haskell                                                          :coding:
+:properties:
+:created: <2025-12-16 Tue>
+:end:
+** How to Take Smart Notes                                            :book:
+:properties:
+:created:  <2025-12-16 Tue>
+:custom_id: how-to-take-smart-notes
+:end:
+
+#+begin_quote
+"One cannot think without writing."  
+#+end_quote
+
+*** everything you need to know
+*** everything you need to do
+*** everything you need to have
+*** a few things to keep in mind
+*** writing is the only thing that matters
+*** simplicity is paramount
+*** nobody starts from scratch
+*** let the work carry you forward
+*** separate and interlocking tasks
+*** read for understanding
+*** take smart notes
+*** develop ideas
+*** share your insight
+*** make it a habit
+*** app
+
+#+begin_quote
+Note sequences occupy the sweet spot between isolated facts/ideas and continuous text. They are what the Zettelkasten is all about. Therefore: Make sure a new note is written, whenever possible, in direct response to an existing note, continuing the dialogue.
+
+If your program allows linking to individual blocks within a page, feel free to write whole note sequences on a single page with each block (or paragraph) as a single note. As long as you treat each block (or paragraph) as a stand-alone note, addressable from anywhere else, you keep the granularity of your notes while benefitting from a better overview over an existing thread.
+#+end_quote
+
+** org-mode                                                          :emacs:
+:properties:
+:created: <2025-12-17 Wed>
+:custom_id: org-mode
+:end:
+*** [[info:org][the org manual]]
+**** [[info:org#hyperlink][hyperlinks]]
+:properties:
+:custom_id: hyperlinks
+:end:
+** [[file:content/physics/index.org][physics]]                                                :science:teaching:
+:properties:
+:created: <2025-12-17 Wed>
+:custom_id: physics
+:end:
+** quotes                                                          :reading:
+:properties:
+:created: <2025-12-16 Tue>
+:custom_id: quotes
+:end:
+*** Jesse Owens
+:properties:
+:created: <2025-12-16 Tue>
+:custom_id: jesse-owens
+:end:
+"The battles that count aren't the ones for gold medals. The struggle within yourself - the invisible, inevitable battles inside all of us - that's where it's at."
+*** Niklas Luhmann
+:properties:
+:created: <2025-12-17 Wed>
+:custom_id: niklas-luhmann
+:end:
+"One cannot think without writing."
+** science                                                         :science:
+** teaching                                                       :teaching:
+:properties:
+:created: <2025-12-17 Wed>
+:custom_id: teaching
+:end:
+** The Math of Life and Death                                         :book:
+:properties:
+:created: <2025-12-16 Tue>
+:custom_id: math-of-life-and-death
+:end:
+** zettelkasten                                                      :notes:
+
+#+printbibliography

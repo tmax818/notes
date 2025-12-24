@@ -1,7 +1,0 @@
-#+title: notes
-
-* intro
-
-I am having trouble with [[denote:20251111T105756][denote]]. I am having trouble with note taking in general.  
-
-* [[https://en.wikipedia.org/wiki/Comparison_of_note-taking_software][notes software]]

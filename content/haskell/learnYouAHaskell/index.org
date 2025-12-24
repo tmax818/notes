@@ -1,7 +1,6 @@
 #+title: haskell notes
 
 
-
 #+begin_src haskell
   putStrLn "Hello World!"
 #+end_src

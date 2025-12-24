@@ -1,0 +1,64 @@
+#+title: world of chemistry notes
+#+startup: indent num
+
+
+* chemistry introduction
+* matter
+** the nature of matter
+*** the particulate nature of matter
+Matter, the “stuff” of which the universe is composed, has two characteristics: it has mass and it occupies space.
+
+- matter :: the material of the universe
+**** the atomic nature of matter
+All matter consists of tiny particles called atoms.
+*** elements and compounds
+We have just considered the most important idea in chemistry: matter is composed of tiny particles we call atoms.
+**** compounds
+In much the same way that we can use a few letters to make thousands of words, we can use a few types of atoms to construct all matter. For example, consider the atoms hydrogen, oxygen, and carbon:
+We can combine the hydrogen, oxygen, and carbon atoms in a variety of ways. Just as letters combine to form different words, atoms combine to form different compounds. Compounds are substances made by bonding atoms together in specific ways. These substances contain two or more different types of atoms bound together in a particular way. A specific
+compound consists of the same particles throughout. We call this particle a molecule. A molecule is made up of atoms that are “stuck” together. A glass of water, for example, contains a huge number of molecules packed closely together.
+**** elements
+Because pure hydrogen and oxygen each contains only one type of atom, the substances are called elemental substances or, more commonly, elements. Elements are substances that contain only one type of atom. For example, pure gold contains only gold atoms, elemental copper contains only copper atoms, and so on.
+*** states of matter
+
+** properties of matter
+
+** classifying matter
+* chemical foundations: elements, atoms, and ions
+** the elements
+*** abundances of elements
+*** names and symbols for the elements
+** atoms and compounds
+*** Dalton's atomic theory
+*** formulas of compounds
+** atomic structure
+*** the structure of the atom
+*** introduction to the modern concept of atomic structure
+*** isotopes
+** using the periodic table
+*** introduction to the periodic table
+*** natural states of the elements
+** ions and their compounds
+*** ions
+*** compounds that contain ions
+* nomenclature
+** naming binary compounds
+** naming and writing formulas for more complex compounds
+* measurements and calculations
+* chemical composition
+** atoms and moles
+** molar mass and percent composition
+** formulas of compounds
+* chemical reations: an introduction
+** evidence for a chemical reaction
+chemical reactions often give a visual signal.
+- color change
+- solid forms
+- bubbles
+- flame
+- temperature change
+** chemical equations
+a chemical change always involves a rearrangement of the ways in which the atoms are grouped.
+
+- chemical reaction :: One or more substances are changed into one or more new substances by the reorganization of component atoms.
+** balancing chemical equations

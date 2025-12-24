@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}introduction\hfill {}\textsc {notes}}{2}{section.1}%
+\contentsline {section}{\numberline {2}topics}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}modern philosophy\hfill {}\textsc {book}}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}\href {content/worldOfChemistry/index.org}{world of chemistry}\hfill {}\textsc {book}}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}\href {content/chemistry/index.org}{chemistry}\hfill {}\textsc {science:teaching}}{2}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}\ref {sec:org0f2db13}}{2}{subsubsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.4}education\hfill {}\textsc {education}}{2}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}\href {content/elisp/index.org}{elisp}\hfill {}\textsc {emacs}}{2}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}\href {eintr}{intro to emacs}}{2}{subsubsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.6}haskell\hfill {}\textsc {coding}}{2}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}How to Take Smart Notes\hfill {}\textsc {book}}{2}{subsection.2.7}%
+\contentsline {subsubsection}{\numberline {2.7.1}everything you need to know}{3}{subsubsection.2.7.1}%
+\contentsline {subsubsection}{\numberline {2.7.2}everything you need to do}{3}{subsubsection.2.7.2}%
+\contentsline {subsubsection}{\numberline {2.7.3}everything you need to have}{3}{subsubsection.2.7.3}%
+\contentsline {subsubsection}{\numberline {2.7.4}a few things to keep in mind}{3}{subsubsection.2.7.4}%
+\contentsline {subsubsection}{\numberline {2.7.5}writing is the only thing that matters}{3}{subsubsection.2.7.5}%
+\contentsline {subsubsection}{\numberline {2.7.6}simplicity is paramount}{3}{subsubsection.2.7.6}%
+\contentsline {subsubsection}{\numberline {2.7.7}nobody starts from scratch}{3}{subsubsection.2.7.7}%
+\contentsline {subsubsection}{\numberline {2.7.8}let the work carry you forward}{3}{subsubsection.2.7.8}%
+\contentsline {subsubsection}{\numberline {2.7.9}separate and interlocking tasks}{3}{subsubsection.2.7.9}%
+\contentsline {subsubsection}{\numberline {2.7.10}read for understanding}{3}{subsubsection.2.7.10}%
+\contentsline {subsubsection}{\numberline {2.7.11}take smart notes}{3}{subsubsection.2.7.11}%
+\contentsline {subsubsection}{\numberline {2.7.12}develop ideas}{3}{subsubsection.2.7.12}%
+\contentsline {subsubsection}{\numberline {2.7.13}share your insight}{3}{subsubsection.2.7.13}%
+\contentsline {subsubsection}{\numberline {2.7.14}make it a habit}{3}{subsubsection.2.7.14}%
+\contentsline {subsubsection}{\numberline {2.7.15}app}{3}{subsubsection.2.7.15}%
+\contentsline {subsection}{\numberline {2.8}org-mode\hfill {}\textsc {emacs}}{3}{subsection.2.8}%
+\contentsline {subsubsection}{\numberline {2.8.1}\href {org}{the org manual}}{3}{subsubsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.9}\href {content/physics/index.org}{physics}\hfill {}\textsc {science:teaching}}{4}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}quotes\hfill {}\textsc {reading}}{4}{subsection.2.10}%
+\contentsline {subsubsection}{\numberline {2.10.1}Jesse Owens}{4}{subsubsection.2.10.1}%
+\contentsline {subsubsection}{\numberline {2.10.2}Niklas Luhmann}{4}{subsubsection.2.10.2}%
+\contentsline {subsection}{\numberline {2.11}science\hfill {}\textsc {science}}{4}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}teaching\hfill {}\textsc {teaching}}{4}{subsection.2.12}%
+\contentsline {subsection}{\numberline {2.13}The Math of Life and Death\hfill {}\textsc {book}}{4}{subsection.2.13}%
+\contentsline {subsection}{\numberline {2.14}zettelkasten\hfill {}\textsc {notes}}{4}{subsection.2.14}%

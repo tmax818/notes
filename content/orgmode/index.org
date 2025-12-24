@@ -1,5 +1,0 @@
-#+title: orgmode
-
-* introduction
-
-I think that orgmode is the answer for my notetaking needs.

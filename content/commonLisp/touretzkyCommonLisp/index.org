@@ -1,0 +1,10 @@
+#+title: notes on Tour
+
+* functions and data
+
+
+#+begin_src lisp
+  (+ 2 3)
+#+end_src
+
+
