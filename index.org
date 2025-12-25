@@ -11,6 +11,12 @@ In the interest of having a mimimum number of "buckets," This document will serv
 
 * topics
 
+** essays
+:properties:
+:created: <2025-12-24 Wed>
+:end:
+[[https://youtu.be/DO5MflX_eik][video]] that sparked this entry.
+
 ** lisp                                                :programmingLanguage:
 *** common lisp
 ** [[file:content/chemistry/index.org][chemistry]]                                                     :science:teaching:
