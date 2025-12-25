@@ -11,32 +11,26 @@ In the interest of having a mimimum number of "buckets," This document will serv
 
 * topics
 
-** git
-:properties:
-:created: <2025-12-24 Wed>
-:end:
-
-- [[file:pdfs/learninggit.pdf][learning git]]
-
-** essays
-:properties:
-:created: <2025-12-24 Wed>
-:end:
-[[https://youtu.be/DO5MflX_eik][video]] that sparked this entry.
-
-** lisp                                                :programmingLanguage:
-*** common lisp
 ** [[file:content/chemistry/index.org][chemistry]]                                                     :science:teaching:
 :properties:
 :created: <2025-12-16 Tue>
 :custom_id: chemistry
 :end:
 
+** [[info:denote][denote]]
+:properties:
+:create: <2025-12-25 Thu>
+:end:
+
+[[denote:20251225T004639][denote note]]
+
 ** [[file:content/elisp/index.org][elisp]]                                                             :emacs:
 :properties:
 :custom_id: elisp
 :end:
-*** [[info:eintr][intro to emacs]]
+
+*** [[info:eintr][intro to elisp]]
+
 ** [[info:emacs][emacs]]
 :properties:
 :created: <2025-12-24 Wed>
@@ -47,11 +41,26 @@ In the interest of having a mimimum number of "buckets," This document will serv
 Whenever I open Emacs, I feel inspired. Like a craftsman entering his workshop, I feel a realm of possibility open before me. I feel the comfort of an environment that has evolved over time to fit me perfectly—an assortment of packages and key bindings that help me bring ideas to life day after day.
 #+end_quote
 
+** essays
+:properties:
+:created: <2025-12-24 Wed>
+:end:
+[[https://youtu.be/DO5MflX_eik][video]] that sparked this entry.
+
+[[denote:20251225T005753][essays]] note
+
 ** Getting things Done                                                :book:
 :properties:
 :created: <2025-12-23 Tue>
 :custom_id: gtd
 :end:
+
+** git
+:properties:
+:created: <2025-12-24 Wed>
+:end:
+
+- [[file:pdfs/learninggit.pdf][learning git]]
 
 ** haskell                                                          :coding:
 :properties:
@@ -91,6 +100,9 @@ Note sequences occupy the sweet spot between isolated facts/ideas and continuous
 If your program allows linking to individual blocks within a page, feel free to write whole note sequences on a single page with each block (or paragraph) as a single note. As long as you treat each block (or paragraph) as a stand-alone note, addressable from anywhere else, you keep the granularity of your notes while benefitting from a better overview over an existing thread.
 #+end_quote
 
+** lisp                                                :programmingLanguage:
+*** common lisp
+
 ** modern philosophy                                                  :book:
 :properties:
 :created: <2025-12-23 Tue>
@@ -113,13 +125,13 @@ I like to [cite:book:@scruton-modern-phil]
 :created: <2025-12-17 Wed>
 :custom_id: physics
 :end:
-
 - [[file:pdfs/fundamentalsPhysics.pdf][fundamentals of physics]]
 ** quotes                                                          :reading:
 :properties:
 :created: <2025-12-16 Tue>
 :custom_id: quotes
 :end:
+
 *** Jesse Owens
 :properties:
 :created: <2025-12-16 Tue>
@@ -138,6 +150,8 @@ I like to [cite:book:@scruton-modern-phil]
 :created: <2025-12-17 Wed>
 :custom_id: teaching
 :end:
+
+
 ** The Math of Life and Death                                         :book:
 :properties:
 :created: <2025-12-16 Tue>

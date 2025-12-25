@@ -1,0 +1,6 @@
+#+title:      essays
+#+date:       [2025-12-25 Thu 00:57]
+#+filetags:   :learning:
+#+identifier: 20251225T005753
+
+[[https://youtu.be/DO5MflX_eik][video]] that sparked this entry.
