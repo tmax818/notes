@@ -11,6 +11,13 @@ In the interest of having a mimimum number of "buckets," This document will serv
 
 * topics
 
+** git
+:properties:
+:created: <2025-12-24 Wed>
+:end:
+
+- [[file:pdfs/learninggit.pdf][learning git]]
+
 ** essays
 :properties:
 :created: <2025-12-24 Wed>
@@ -34,6 +41,8 @@ In the interest of having a mimimum number of "buckets," This document will serv
 :properties:
 :created: <2025-12-24 Wed>
 :end:
+
+- quote from getting clojure
 #+begin_quote
 Whenever I open Emacs, I feel inspired. Like a craftsman entering his workshop, I feel a realm of possibility open before me. I feel the comfort of an environment that has evolved over time to fit me perfectly—an assortment of packages and key bindings that help me bring ideas to life day after day.
 #+end_quote
