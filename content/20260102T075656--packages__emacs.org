@@ -1,0 +1,6 @@
+#+title:      packages
+#+date:       [2026-01-02 Fri 07:56]
+#+filetags:   :emacs:
+#+identifier: 20260102T075656
+
+I love packages!!!

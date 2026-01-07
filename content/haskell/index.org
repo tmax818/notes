@@ -1,4 +1,4 @@
 #+title: haskell notes
 #+date: <2025-12-16 Tue>
 
-These are my haskell notes
+These are my haskell notes. I have included the book on physics here.

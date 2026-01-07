@@ -1,5 +1,5 @@
 #+title: inbox.org (braindump)
-#+startup: indent
+#+startup: indent latexpreview
 
 * intro
 This is my brain-dump.
@@ -23,6 +23,7 @@ This is my brain-dump.
 *** howToSolveIt
 *** howToTakeSmartNotes
 *** republic
+*** generalChemistry
 ** booleanAlgebra
 ** budget
 ** calibreLibrary
@@ -30,15 +31,13 @@ This is my brain-dump.
 ** cars
 ** categories
 ** cats
-** chemistry
-*** biochemistry
-*** physical chemistry
 ** circuits
 ** coding
 ** codingDojo
 ** composting
 ** comptia
 ** computers
+** computerScience
 ** contactLenses
 ** corporations
 ** cosmology
@@ -46,9 +45,11 @@ This is my brain-dump.
 ** credit
 ** criticalThinking
 ** cryptocurrency
+** csula
 ** data
 ** databases
 ** death
+** debt
 ** debt
 ** dentist
 ** diet
@@ -68,6 +69,8 @@ This is my brain-dump.
 ** emacs
 *** denote
 *** orgmode
+entities
+\iquest?
 *** remember
 ** essays
 ** ethics
@@ -90,6 +93,7 @@ as it relates to [[substance]]
 ** geometry
 ** git
 ** grammar
+** greek 
 ** greenHouse
 ** growth
 ** gtd
@@ -130,8 +134,15 @@ as it relates to [[substance]]
 ** mathematics
 *** algebra
 *** calculus
+**** lim_x\to0 
+**** \int_0^\infin
+
 *** linearAlgebra
 *** numberTheory
+*** setTheory
+**** \in
+**** \notin 
+**** \sub
 ** memory
 ** microsoft
 ** money
@@ -148,6 +159,7 @@ as it relates to [[substance]]
 **** guitar
 *** musicians
 ** networking
+** notes
 ** nothing
 ** nutrition
 ** organization
@@ -195,8 +207,10 @@ as it relates to [[substance]]
 ** retirement
 ** robotics
 ** science
+*** chemistry
+**** biochemistry
+**** physical chemistry
 ** selfImprovement
-** setTheory
 ** shapes
 ** shyness
 ** slavery
@@ -214,12 +228,14 @@ as it relates to [[substance]]
 ** teaching
 ** technology
 ** television
+** therapy
 ** thinking
 ** tikTok
 ** time
 ** tools
 ** trade
 ** trigonometry
+** ucla
 ** universe
 ** vocabulary
 ** war

@@ -1,13 +1,11 @@
-#+title: notes index.org<notes>
+#+title: notes
 #+author: Tyler Maxwell
-#+startup: indent num
+#+startup: num
 #+bibliography: bibliography.bib
 
 * introduction :notes:
 
-In the interest of having a mimimum number of "buckets," This document will serve as a reference for notes. It seems the need for a separate directory for some topics rises immediately (i.e. [[haskell]]). 
-
-
+In the interest of having a mimimum number of "buckets," This document will serve as a reference for notes. It seems the need for a separate directory for some topics rises immediately as in the case with any programming language.
 
 * topics
 
@@ -39,6 +37,11 @@ In the interest of having a mimimum number of "buckets," This document will serv
 - quote from getting clojure
 #+begin_quote
 Whenever I open Emacs, I feel inspired. Like a craftsman entering his workshop, I feel a realm of possibility open before me. I feel the comfort of an environment that has evolved over time to fit me perfectly—an assortment of packages and key bindings that help me bring ideas to life day after day.
+#+end_quote
+
+#+begin_quote
+
+Having GNU Emacs is like having a dragon's cave of treasures.
 #+end_quote
 
 ** essays
@@ -150,7 +153,6 @@ I like to [cite:book:@scruton-modern-phil]
 :created: <2025-12-17 Wed>
 :custom_id: teaching
 :end:
-
 
 ** The Math of Life and Death                                         :book:
 :properties:
