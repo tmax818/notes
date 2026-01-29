@@ -1,17 +1,11 @@
-#+title: elisp
-#+date: <2025-12-14 Sun>
-
-* helloWorld
-
-#+begin_src elisp
-  (message "Hello, World!")
-#+end_src
-
-Typed <C-c C-c> and got this:
-
-#+RESULTS:
-: Hello, World!
-
-There is so much!
+#+title: emacs lisp
+#+startup: num indent
 
 
+* introduction 
+
+** caveats
+** lisp history
+- developed in late 50s
+- at MIT
+- AI research

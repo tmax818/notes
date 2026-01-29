@@ -1,0 +1,3 @@
+#+title: getting started with C: Diving in
+
+

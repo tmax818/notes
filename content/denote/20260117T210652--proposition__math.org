@@ -1,0 +1,11 @@
+#+title:      proposition
+#+date:       [2026-01-17 Sat 21:06]
+#+filetags:   :math:
+#+identifier: 20260117T210652
+
+
+
+- proposition :: declarative sentence
+
+  a proposition is a statement of fact 
+  

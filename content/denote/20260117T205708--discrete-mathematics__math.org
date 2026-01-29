@@ -1,0 +1,7 @@
+#+title:      discrete mathematics
+#+date:       [2026-01-17 Sat 20:57]
+#+filetags:   :math:
+#+identifier: 20260117T205708
+
+I am thinking of the [[file:][book]] by Rosen. That [[file:~/Dropbox/pdfs/DiscreteMathematicsRosen8.pdf][book]] is so good. I like the section on [[file:~/Dropbox/pdfs/DiscreteMathematicsRosen8.pdf::29][conditionals]].
+

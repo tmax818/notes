@@ -1,0 +1,6 @@
+#+title:      biconditional
+#+date:       [2026-01-25 Sun 22:04]
+#+filetags:   :logic:
+#+identifier: 20260125T220430
+
+p \harr q 

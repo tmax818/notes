@@ -1,0 +1,71 @@
+#+title: elisp intro
+#+date: <2025-12-14 Sun>
+#+startup: num
+
+
+
+* list processing
+** lisp lists
+#+begin_src elisp
+        '(rose
+          violet
+          daisy
+          buttercup)
+#+end_src
+*** lisp atoms
+*** whitespace in lists
+*** GNU emacs helps you type lists
+** run a program
+** generate an error message
+** symbol names and function definitions
+** the lisp interpreter
+*** byte compiling
+** evaluation
+*** evaluating inner lists
+** variables
+*** error messages for a symbol without a fuction
+*** error messages for a symbol without a value 
+** arguments
+** setting the value of a variable
+*** using 'setq'
+#+begin_src elisp
+  (setq flowers '(rose violet daisy buttercup))
+#+end_src
+#+RESULTS:
+| rose | violet | daisy | buttercup |
+*** counting
+** summary 
+** exercises
+
+
+
+* practicing evaluation
+** buffer names
+** getting buffers
+* how to write function definitions
+** the 'defun' macro
+** install a function definition
+*** change a function definition
+** make a function interactive
+*** an interactive 'multiply-by-seven'
+** different options for 'interactive'
+* buffer walk through
+* a few **more complex** functions
+* narrowing and widening
+* 'car', 'cdr', 'cons': fundamental function
+** 'car' and 'cdr'
+* cutting and storing text
+** 'zap-to-char'
+* how lists are implemented
+* yanking text back
+* loops and recursion
+* regular expression searches
+* counting via repetition and regexps
+* counting words in a 'defun'
+** what to count?
+** what constitutes a word or a symbol?
+* readying a graph
+* your '.emacs' file
+* debugging
+* conclusion
+

@@ -1,0 +1,6 @@
+#+title: index.org
+
+
+#+begin_src golang
+  
+#+end_src

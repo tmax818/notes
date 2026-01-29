@@ -1,0 +1,28 @@
+#+title: journal.org
+
+* <2026-01-14 Wed>
+
+I have to do something about keeping a journal. Sometimes simple is better. This is, as of now, a simple '.org' file called journal.org. A stumbling block for me has been thinking too hard and long about a perfect system. I can't think effectively without writing. So, not keeping a journal seems foolish.
+
+* <2026-01-16 Fri>
+
+What if I wrote a book for my children? What if I recoreded my knowledge for them. 
+
+* <2026-01-17 Sat>
+
+It seems the information is more important then what date it happened in keeping a journal. Today I have been focused on go and statistics. I feel compelled to install R!
+
+* <2026-01-20 Tue>
+
+Alas, I didn't. Install R that is. I just edited the previous entry for clarity before starting this one. I have done the same thing in the past.
+
+The idea of a book for my children...What about an autobiography? It seems this would be an exercise for me in metacognition.
+
+* <2026-01-21 Wed>
+
+- I don't want the [[file:autobiography/index.org][autobiography]] to be too detailed or a bitch session about my childhood. I do want to make a through inventory of what has happened and what went wrong. Also what went right. 
+
+- an argument for having a modularized customization for emacs is that there are certain settings that have to be in the init file for emacs to be useful (i.e. the location of agenda files) 
+
+
+* 

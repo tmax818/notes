@@ -1,0 +1,10 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+nav, footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}

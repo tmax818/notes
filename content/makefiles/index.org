@@ -1,0 +1,6 @@
+#+title: index.org note on makefiles
+
+* intro
+
+I always forget how fucking cool makefiles are until I revisit them! The [[https://makefiletutorial.com/][learn makefiles tutorial]] is pretty good!
+

@@ -1,0 +1,11 @@
+#+title: notes on [[https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/][bruce maxwell]]'s
+
+- [[https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/][link]] to bruce's tutorial
+
+  * files:
+
+    * [[file:hellomake.c][hellomake.c]]
+
+    * [[file:hellofunc.c][hellofunc.c]]
+
+    * [[file:hellomake.h][hellomake.h]]

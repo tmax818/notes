@@ -1,8 +1,0 @@
-#+title:      kernel
-#+date:       [2026-01-01 Thu 13:40]
-#+filetags:   :linux:
-#+identifier: 20260101T134009
-
-#+begin_quote
-...the kernel, which is the core of the operating system. The kernel is software residing in memory that tells the CPU what to do. The kernel manages the hardware and acts primarily as an interface between the hardware and any running program.
-#+end_quote

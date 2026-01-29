@@ -1,0 +1,18 @@
+#+title: index.org
+#+subtitle: notes on head first C
+#+startup: num indent
+
+
+* chapter: [[file:text.pdf::41][link]]
+- [[./chapter01/rocks.c][rocks.c]]
+
+  - machine code ::
+  - compiler :: 
+  - c standards ::
+  - c source files :: end in  `.c`
+
+** `main` function
+    
+  #+begin_src c
+    int main(){}
+  #+end_src

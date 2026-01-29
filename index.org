@@ -8,13 +8,7 @@
 In the interest of having a mimimum number of "buckets," This document will serve as a reference for notes. It seems the need for a separate directory for some topics rises immediately as in the case with any programming language.
 
 * topics
-
-** [[file:content/chemistry/index.org][chemistry]]                                                     :science:teaching:
-:properties:
-:created: <2025-12-16 Tue>
-:custom_id: chemistry
-:end:
-
+** hugo                                                             :coding:
 ** [[info:denote][denote]]
 :properties:
 :create: <2025-12-25 Thu>

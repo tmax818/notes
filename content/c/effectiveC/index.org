@@ -1,0 +1,13 @@
+#+title: effective C
+#+subtitle: notes
+
+
+* introduction
+
+* links
+
+[[https://github.com/rcseacord/effective-c][github]]
+
+[[https://github.com/rcseacord/effective-c.][no starch]]
+
+[[http://robertseacord.com/wp/][author]]

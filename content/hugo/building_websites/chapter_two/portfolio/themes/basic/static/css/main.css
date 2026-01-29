@@ -1,0 +1,15 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+nav, footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+
+@media only screen and (min-width: 796x) {
+nav {flex-direction: row;}    
+}

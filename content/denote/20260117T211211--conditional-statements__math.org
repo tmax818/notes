@@ -1,0 +1,40 @@
+#+title:      conditional statements
+#+date:       [2026-01-17 Sat 21:12]
+#+filetags:   :math:logic
+#+identifier: 20260117T211211
+#+startup: latexpreview
+
+* $p \to q$
+
+
+
+- conditional statement :: p \to q asserts that q is true on the condition that p holds.
+
+  | p | q | p \to q |
+  |---+---+-------|
+  | T | T | T     |
+  | T | F | F     |
+  | F | T | T     |
+  | F | F | T     |
+
+
+| q                    | p                     |
+|----------------------+-----------------------|
+| q when/whenever p    | if p, then q          |
+| q if p               | p only if q           |
+| q unless \not p         |                       |
+| q provided that p    |                       |
+| q follows from p     |                       |
+| q is necessary for p | p is sufficient for q |
+|                      |                       |
+
+** converse :: q \to p
+
+** inverse :: \not p \to \not q
+
+** contrapositive :: \not q \to \not p
+
+- equivalent :: two compound proposiitions always have the same truth value
+
+
+* biconditionals

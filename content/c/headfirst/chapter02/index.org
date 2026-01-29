@@ -1,0 +1,16 @@
+#+title: index.org<headFirstC>
+#+startup: num indent
+
+* chapter
+* chapter memory and pointers: what are you pointing at?
+** C code includes _pointers_
+- pointer :: the memory address of a piece of data.
+
+- pointers avioid copies and share data
+
+** digging into memory
+
+
+#+begin_src c
+  printf("x is stored at %p\n", &x)
+#+end_src
