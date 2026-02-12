@@ -1,3 +1,4 @@
+
 #+title:      write
 #+date:       [2026-01-25 Sun 20:56]
 #+filetags:   :productivity:

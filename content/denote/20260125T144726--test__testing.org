@@ -1,6 +1,0 @@
-#+title:      test
-#+date:       [2026-01-25 Sun 14:47]
-#+filetags:   :testing:
-#+identifier: 20260125T144726
-
-where are you?

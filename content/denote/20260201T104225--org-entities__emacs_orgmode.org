@@ -1,0 +1,89 @@
+#+title:      org-entities
+#+date:       [2026-02-01 Sun 10:42]
+#+filetags:   :emacs:orgmode:
+#+identifier: 20260201T104225
+
+* cool symbols
+
+| \fnof | fnof   |
+| \real | real   |
+| \image | image  |
+| \weierp | weierp |
+| \ell | ell    |
+| \imath | imath  |
+| \jmath | jmath  |
+
+* Greek
+
+| \Alpha  \alpha      | Alpha alfa             |   |
+| \Beta  \beta      | Beta                   |   |
+| \Gamma  \gamma      | Gamma                  |   |
+| \Delta  \delta      | Delta                  |   |
+| \Epsilon  \epsilon      | Epsilon (var)epsilon   |   |
+| \Zeta  \zeta      | Zeta                   |   |
+| \Eta  \eta      | Eta                    |   |
+| \Theta  \theta      | Theta                  |   |
+| \Iota  \iota      |                        |   |
+| \Kappa  \kappa      | Kappa                  |   |
+| \Lambda  \lambda      | Lambda                 |   |
+| \Mu  \mu  \micro   | Mu  mu micro           |   |
+| \Xi  \xi      | Xi                     |   |
+| \Omicron  \omicron      | Omicron                |   |
+| \Pi  \pi      | Pi                     |   |
+| \Rho  \rho      | Rho                    |   |
+| \Sigma  \sigma  \sigmaf \sum | Sigma sigma sigmaf sum |   |
+| \Tau  \tau      | Tau                    |   |
+| \Upsilon  \upsilon      | Upsilon                |   |
+| \Phi  \phi \varphi    | Phi                    |   |
+| \Chi  \chi      | Chi                    |   |
+| \Psi  \psi      | Psi                    |   |
+| \Omega  \omega      | Omega                  |   |
+
+* Common
+
+| \circ | circ  |   |
+| \vert | vert  |   |
+| \vbar | vbar  |   |
+| \S | S     |   |
+| \sect | sect  |   |
+| \amp | amp   |   |
+| \lt | lt    |   |
+| \gt | gt    |   |
+| \tilde | tilde |   |
+| \slash | slash |   |
+| \plus | plus  |   |
+| \under | under |   |
+| \equal | equal |   |
+|   |       |   |
+
+* science et al
+
+| \minus | minus  |
+| \pm | pm     |
+| \plusmn | plusmn |
+| \times | times  |
+| \frasl | frasl  |
+| \colon | colon  |
+| \div | div    |
+| \frac12 | frac12 |
+| \frac14 | frac14 |
+| \frac34 | frac34 |
+| \sup1 | sup1   |
+| \sup2 | sup2   |
+| \sup3 | sup3   |
+| \radic | radic  |
+| \sum | sum    | 
+|   |        |
+** logic and sets
+| \not \neg  | not neg      |
+| \land \wedge | land wedge   |
+| \lor \vee | lor vee      |
+| \forall    | forall       |
+| \exist \exists   | exist exists |
+| \nexists    | nexist(s)    |
+| \therefore    | therefore    |
+| \because    | because      |
+| \empty    | empty        |
+| \in \isin | in isin      |
+| \ni    | ni           |
+| \notin    | notin        |

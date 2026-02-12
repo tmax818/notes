@@ -1,0 +1,6 @@
+#+title:      set theory
+#+date:       [2026-02-07 Sat 17:15]
+#+filetags:   :math:
+#+identifier: 20260207T171548
+
+- sets are like [[denote:20260207T171756][data types]] in programming languages.

@@ -1,7 +1,8 @@
+
 #+title:      clojure
 #+date:       [2026-01-02 Fri 07:37]
 #+filetags:   :coding:lisp:
 #+identifier: 20260102T073710
 
-see [[file:clojure/index.org][the dir]]
+see [[file:../clojure/index.org][the dir]]
 

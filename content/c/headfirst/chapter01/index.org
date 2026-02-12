@@ -1,3 +1,80 @@
 #+title: getting started with C: Diving in
 
 
+* C is a language for small, fast programs  2
+
+** the way C works
+
+- machine code :: 
+
+- compiler :: gcc
+
+#+begin_src c
+  #include <stdio.h>
+
+  int main() {
+    puts("C Rocks!");
+    return 0;
+    }
+#+end_src
+
+
+
+* But what does a complete C program look like?  5
+
+- source file :: c code file ending in `.c`
+
+#+begin_src c
+
+#+end_src
+
+- main() function :: starting point for all code in the program
+
+* But how do you run the program?  9
+
+- C is a **compiled language** 
+
+* Two types of command  14
+
+** do something
+
+** do something *only* if something is true
+
+* Here’s the code so far  15
+
+- [[file:cards.c][cards.c]]
+
+* Card counting? In C?   17
+
+* There’s more to booleans than equals…   18
+
+* What’s the code like now?   25
+
+* Pulling the ol’ switcheroo   26
+
+* Sometimes once is not enough…   29
+
+** using while loops in C
+
+* Loops often follow the same structure…   30
+
+** ...and for loops make this easy
+
+#+begin_src c
+  int counter;
+  for(coutner = 1; counter < 11; counter++){
+    printf("%i green bottles, hanging on a wall\n", counter);
+  }
+#+end_src
+
+* You use break to break out…  31
+
+** ...and continue to continue
+
+
+* bullet points
+
+- a `while` loop 
+
+* Your C Toolbox   40
+

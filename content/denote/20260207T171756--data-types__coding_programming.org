@@ -1,0 +1,6 @@
+#+title:      data types
+#+date:       [2026-02-07 Sat 17:17]
+#+filetags:   :coding:programming:
+#+identifier: 20260207T171756
+
+- i.e. data types

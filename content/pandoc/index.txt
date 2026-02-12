@@ -1,0 +1,18 @@
+% Habits
+% John Doe
+% March 22, 2005
+
+# in the morning
+
+::: 
+
+- Eat spaghetti
+- Drink wine
+
+# not incremental
+
+- before pauase
+
+. . .
+
+- do other stuff

@@ -1,4 +1,6 @@
 #+title: journal.org
+#+setup: num indent
+
 
 * <2026-01-14 Wed>
 
@@ -14,7 +16,7 @@ It seems the information is more important then what date it happened in keeping
 
 * <2026-01-20 Tue>
 
-Alas, I didn't. Install R that is. I just edited the previous entry for clarity before starting this one. I have done the same thing in the past.
+Alas, I didn't install R. I just edited the previous entry for clarity before starting this one. I have done the same thing in the past.
 
 The idea of a book for my children...What about an autobiography? It seems this would be an exercise for me in metacognition.
 
@@ -22,7 +24,16 @@ The idea of a book for my children...What about an autobiography? It seems this 
 
 - I don't want the [[file:autobiography/index.org][autobiography]] to be too detailed or a bitch session about my childhood. I do want to make a through inventory of what has happened and what went wrong. Also what went right. 
 
-- an argument for having a modularized customization for emacs is that there are certain settings that have to be in the init file for emacs to be useful (i.e. the location of agenda files) 
+- An argument for having a modularized customization for emacs is that there are certain settings that have to be in the init file for emacs to be useful (i.e. the location of agenda files) 
 
+* <2026-01-30 Fri>
 
-* 
+Ice-out day. I truly feel responsible for what is happening. Every time I laughed, or even smiled at a racist joke, I help perpetuate facism. Toleration of intolerance is complicity.
+
+I bought a sandwich on the day of protest. I don't sort my garbage. I don't adaquately prepare for teaching my students. Is it because they are brown? Would I behave the same way if I taught at Hart High? In a lot of ways, I am ashamed of my lack of vigilance; my lack of effort.   
+
+* <2026-02-02 Mon>
+
+Doomscrolling. I doomscroll because I am unhappy, I am unhappy because I doomscroll. The last sentence was a joke. For who? It doesn't add substance to what I am writing. I wrote the first two sentences, because I have an issue with spending, what I see as, an excessive amount of time viewing content online that is not productive. 
+
+I have to write for work. I have to write with proper citations. I am very fearful. It seems time invested learning orgmode is not wasted.  

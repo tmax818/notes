@@ -1,0 +1,7 @@
+#+title: notes on go tour
+
+* info
+
+[[https://go.dev/tour/welcome/1][website]]
+
+

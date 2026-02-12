@@ -3,5 +3,17 @@
 #+filetags:   :math:
 #+identifier: 20260117T205708
 
-I am thinking of the [[file:][book]] by Rosen. That [[file:~/Dropbox/pdfs/DiscreteMathematicsRosen8.pdf][book]] is so good. I like the section on [[file:~/Dropbox/pdfs/DiscreteMathematicsRosen8.pdf::29][conditionals]].
+* notes on book by Rosen
 
+- definition of [[denote:20260201T135024][discrete]].
+
+
+* chapter 1
+
+- proposition :: a declarative sentence
+- truth value :: either T or F 
+- atomic propositions :: cannot be expressed in terms of simpler propositions
+- comound propositions :: new propositions formed from existing propositions connected with logical operators
+
+  
+  
