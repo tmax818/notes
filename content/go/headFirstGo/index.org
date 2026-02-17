@@ -1,0 +1,2 @@
+#+title: headfirst Go notes
+* [[ch01][chapter 1]]
