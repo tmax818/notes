@@ -1,0 +1,80 @@
+#+title: index.org<chapter02>
+#+startup: indent
+
+* Intro
+
+If you really want to kick butt with C, you need to understand how C handles memory
+
+The C language gives you a lot more control over how your program uses the computer’s memory. In this chapter, you’ll strip back the covers and see exactly what happens when you read and write variables. You’ll learn how arrays work, how to avoid some nasty memory SNAFUs, and most of all, you’ll see how mastering pointers and memory addressing is key to becoming a kick-ass C programmer.
+
+* C code includes pointers 42
+
+Pointers are one of the most fundamental things to understand in
+the C programming language. So what’s a pointer? A pointer is
+just the address of a piece of data in memory.
+
+Pointers are used in C for a couple of reasons.
+
+
+* Digging into memory 43
+
+* Set sail with pointers 44
+
+** set sail with pointers
+
+** set sail sou'east, Cap'n
+
+* Try passing a pointer to the variable 47
+
+* Using memory pointers 48
+
+* How do you pass a string to a function? 53
+
+** honey, who shrank the string?
+
+#+begin_src c
+  void fortune_cookie(char msg[]){
+    printf("Message reads: %s\n", msg);
+    printf("msg occupies %i bytes\n", sizeof(msg));
+    }
+#+end_src
+
+* Array variables are like pointers… 54
+
+** ...so our function was passes a pointer
+
+* What the computer thinks when it runs your code 55
+
+* But array variables aren’t quite pointers 59
+
+** pointer decay
+
+** the case of the lethal list
+
+* Why arrays really start at 0 61
+
+#+begin_src c
+  int drinks[] = {4, 2, 3};
+  printf("1st order: %i drinks\n", drinks[0]);
+  printf("1st order: %i drinks\n", *drinks);  // drinks[0] == *drinks
+#+end_src
+
+* Why pointers have types 62
+
+- so that the compiler knows how much to adjust pointer arithmetic.
+
+* Using pointers for data entry 65
+
+
+
+* Be careful with scanf() 66
+
+* fgets() is an alternative to scanf() 67
+
+* String literals can never be updated 72
+
+* If you’re going to change a string, make a copy 74
+
+* Memory memorizer 80
+
+* Your C Toolbox 81

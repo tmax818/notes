@@ -1,0 +1,302 @@
+this is a new chapter    41
+...and of course, Mommy never lets me stay out after 6 p.m.
+memory and pointers2What are you pointing at?
+
+If  you really want to kick butt with C, you need to understand how C handles memory.
+
+The C language gives you a lot more control over how your program uses the computer’s memory. In this chapter, you’ll strip back the covers and see exactly what happens when you read and write variables. You’ll learn how arrays work, how to avoid some nasty memory SNAFUs, and most of all, you’ll see how mastering pointers and memory addressing is key to becoming a kick-ass C programmer.
+
+Thank heavens my boyfriend variable isn’t in read-only memory.
+
+42    Chapter 2introducing pointers
+
+C co de i nclude s p oi n te rs
+
+Pointers are one of the most fundamental things to understand in the C programming language. So what’s a pointer? A pointer is just the address of a piece of data in memory. Pointers are used in C for a couple of reasons. 
+Instead of passing around a whole copy of the data, you can just pass a pointer.
+1
+You might want two pieces of code to work on the same piece of data rather than a separate copy.
+2
+
+Pointers help you do both these things: avoid copies and share data. But if pointers are just addresses, why do some people find them confusing? Because they’re a form of indirection. If you’re not careful, you can quickly get lost chasing pointers through memory. The trick to learning how to use C pointers is to go slowly. 
+   Don’t try to rush this chapter.
+
+Pointers are a simple idea, but you need to take your time and understand everything. Take frequent breaks, drink plenty of water, and if you really get stuck, take a nice long bath. 
+
+To best understand pointers, go slowly.
+
+I’ve got the answer you need; it’s right here in the Encyclopedia Britannica.Or you could just look at page 241.
+
+This is a copy of the information you need.This is a pointer: the location of the information. 
+You were supposed to sign the birthday card we left in the lunch room. But I prefer this one—it’s got kittens!
+
+memory and pointersyou are here 4    43
+
+Diggi ng i n to memor y
+
+To understand what pointers are, you’ll need to dig into the memory of the computer.Every time you declare a variable, the computer creates space for it somewhere in memory. If you declare a variable inside a function like main(), the computer will store it in a section of memory called the stack. If a variable is declared outside any function, it will be stored in the globals section of memory. 
+int y = 1;int main(){  int x = 4;  return 0;}
+
+The computer might allocate, say, memory location 4,100,000 in the stack for the x variable. If you assign the number 4 to the variable, the computer will store 4 at location 4,100,000.If you want to find out the memory address of the variable, you can use the & operator: 
+
+printf("x is stored at %p\n", &x);x is stored at 0x3E8FA0
+
+The address of the variable tells you where to find the variable in memory. That’s why an address is also called a pointer, because it points to the variable in memory.
+
+A variable declared inside a function is usually stored in the stack.A variable declared outside a function is stored in globals.
+
+StackHeapGlobalsConstantsCode
+
+Variable y will live in the globals section. Memory address 1,000,000.  Value 
+
+1. Variable x will live in the stack. Memory address 4,100,000.  Value 4. x lives at location 4,100,000.&x is the address of x.%p is used to format addresses. This is what the code will print.This is 4,100,000 in hex (base 16) format.You’ll probably get a different address on your machine.
+14
+y lives in globals.
+xy
+
+44    Chapter 2pirates of the bermuda rectangle
+
+Se t s ai l w i t h p oi n te rs
+
+Imagine you’re writing a game in which players have to navigate their way around the... The game will need to keep control of lots of things, like scores and lives and the current location of the players. You won’t want to write the game as one large piece of code; instead, you’ll create lots of smaller functions that will each do something useful in the game: What does any of this have to do with pointers? Let’s begin coding without worrying about pointers at all. You’ll just use variables as you always have. A major part of the game is going to be navigating your ship around the Bermuda Rectangle, so let’s dive deeper into what the code will need to do in one of the navigation functions. 
+
+go_south_east() go_north_west()go_south()die_of_scurvy()eat_rat()acquire_facial_hair()speaks_in_present_tense()make_one_sequel_too_many()
+
+memory and pointersyou are here 4    45
+
+Se t s ai l so u’e as t, Cap’n
+
+The game will track the location of players using latitudes and 
+longitudes. The latitude is how far north or south the player is, and the longitude is her position east or west. If a player wants to travel southeast, that means her latitude will go down, and her longitude will go up: So you could write a go_south_east() function that takes arguments for the latitude and longitude, which it will then increase and decrease:The program starts a ship at location [32, –64], so if it heads southeast, the ship’s new position will be [31, –63]. At least it will be if the code works...
+
+Look at the code carefully. Do you think it will work? Why? Why not?
+#include <stdio.h>void go_south_east(int lat, int lon){  lat = lat - 1;  lon = lon + 1;}int main(){  int latitude = 32;  int longitude = -64;  go_south_east(latitude, longitude);  printf("Avast! Now at: [%i, %i]\n", latitude, longitude);  return 0;}
+
+Pass in the latitude and longitude.Decrease the latitude.Increase the longitude.go_south_east()The longitude will increase.The latitude will decrease.
+
+46    Chapter 2test drive
+
+Test DriveThe code should move the ship southeast from [32, –64] to the new location at [31, –63]. But if you compile and run the program, this happens: 
+> gcc southeast.c -o southeast> ./southeastAvast! Now at: [32, -64]>
+File  Edit   Window  Help   Savvy?WTF? The ship is still in the same place.Where’s The Fightin’? 
+The ship’s location stays exactly the same as before.
+C sends arguments as value s
+The code broke because of the way that C calls functions. 
+We be becalmed, cap’n!Arr! We be writin’ a bad Amazon review!
+32latitude
+But if that’s how C calls functions, how can you ever write a function that updates a variable?
+It’s easy if you use pointers... 
+ Initially, the main() function has a local variable called latitude that had value 32.
+1
+ When the computer calls the go_south_east() function, it 
+copies the value of the latitude variable to the lat argument. This is just an assignment from the latitude variable to the lat variable. When you call a function, you don’t send the variable as an argument, just its value.
+2
+ When the go_south_east() function changes the value of lat, the function is just changing its local copy. That means when the computer returns to the main() function, the latitude variable still has its original value of 32.
+3
+32lat32latitude
+This is a new variable containing a copy of the latitude value.
+32lat31
+Only the local copy gets changed.The original variable keeps its original value.
+
+memory and pointersyou are here 4    47
+
+Q: I printed the location of the variable on my machine and it wasn’t 4,100,000. Did I do something wrong?
+A: You did nothing wrong. The memory location your program uses for the variables will be different from machine to machine.
+Q: Why are local variables stored in the stack and globals stored somewhere else?
+A: Local and global variables are used differently. You will only ever get one copy of a global variable, but if you write a function that calls itself, you might get very many instances of the same local variable.
+Q: What are the other areas of the memory used for?
+A: You’ll see what the other areas are for as you go through the rest of the book.
+
+Tr y pas si ng a p oi n te r to t he v ar iable
+
+Instead of passing the value of the latitude and longitude variables, what happens if you pass their addresses? If the 
+longitude variable lives in the stack memory at location 4,100,000, what happens if you pass the location number 4,100,000 as a parameter to the go_south_east() function? If the go_south_east() function is told that the latitude value lives at location 4,100,000, then it will not only be able to find the current latitude value, but it will also be able to change the contents of the original latitude variable. All the function needs to do is read and update the contents of memory location 4,100,000. Because the go_south_east() function is updating the original 
+latitude variable, the computer will be able to print out the updated location when it returns to the main() function. 
+Poi n te rs m ake i t e asie r to sh are memor y
+This is one of the main reasons for using pointers—to let functions 
+share memory. The data created by one function can be modified by another function, so long as it knows where to find it in memory.Now that you know the theory of using pointers to fix the  
+go_south_east()function, it’s time to look at the details of how you do it. 
+Read contents of memory 4,100,000Subtract 1 from valueStore new value in memory 4,100,000 
+3132latitude32latitude4,100,0004,100,000
+The latitude variable is at memory location 4,100,000.
+Please update locker 4,100,000
+Instead of passing the value of the variable, pass its location.
+
+48    Chapter 2memory pointers
+
+Usi ng memor y p oi n te rs
+There are three things you need to know in order to use pointers to read and write data.
+Get the address of a variable.
+You’ve already seen that you can find where a variable is stored in memory using the & operator: 
+1
+int x = 4;printf("x lives at %p\n", &x);
+But once you’ve got the address of a variable, you may want to store it somewhere. To do that, you will need a pointer variable. A pointer variable is just a variable that stores a memory address. When you declare a pointer variable, you need to say what kind of data is stored at the address it will point to: 
+int *address_of_x = &x;
+Read the contents of an address.
+When you have a memory address, you will want to read the data that’s stored there. You do that with the * operator:
+2
+int value_stored = *address_of_x;
+The * and & operators are opposites. The & operator takes a piece of data and tells you where it’s stored. The * operator takes an address and tells you what’s stored there. Because pointers are sometimes called references, the * operator is said to dereference a pointer. 
+Change the contents of an address.
+If you have a pointer variable and you want to change the data at the address where the variable’s pointing, you can just use the * operator again. But this time you need to use it on the left side of an assignment:
+3
+*address_of_x = 99;
+OK, now that you know how to read and write the contents of a memory location, it’s time for you to fix the go_south_east() function.
+4x4,100,000
+The %p format will print out the location in hex (base 16) format.& will find the address of the variable: 4,100,000.This is a pointer variable for an address that stores an int.This will read the contents at the memory address given by address_of_x. This will be set to 4: the value originally stored in the x variable. 
+99x4,100,0004
+This will change the contents of the original x variable to 99.
+
+
+
+memory and pointersyou are here 4    67
+
+fge ts() is an al te r n at i ve to sc anf ()
+There’s another function you can use to enter text data: 
+fgets(). Just like the scanf() function, it takes a char pointer, but unlike the scanf() function, the fgets() function must be given a maximum length: 
+char food[5];printf("Enter favorite food: ");
+fgets(food, sizeof(food), stdin);
+That means that you can’t accidentally forget to set a length when you call fgets(); it’s right there in the function signature as a mandatory argument. Also, notice that the 
+fgets() buffer size includes the final \0 character. So you don’t need to subtract 1 from the length as you do with 
+scanf().
+OK, what else do you need to know about fgets()?
+Usi ng size of w i t h fge ts()
+The code above sets the maximum length using the sizeof operator. Be careful with this. Remember: sizeof returns the amount of space occupied by a variable. In the code above, food is an array variable, so sizeof returns the size of the array. If food was just a simple pointer variable, the sizeof operator would have just returned the size of a pointer.If you know that you are passing an array variable to 
+fgets() function, then using sizeof is fine. If you’re just passing a simple pointer, you should just enter the size you want: 
+printf("Enter favorite food: ");fgets(food, 5, stdin);
+If food was a simple pointer, you’d give an explicit length, rather than using sizeof.
+Tales from the Crypt
+The fgets() function actually comes from an older function called gets().  
+Even though fgets() is seen as a safer-to-use function than 
+scanf(), the truth is that the older gets() function is far more dangerous than either of them. The reason? The gets() function has no limits at all: 
+char dangerous[10]; gets(dangerous); 
+ 
+gets() is a function that’s been around for a long time. But all you really need to know is that you really shouldn’t use it.
+Nooooooo!!!!! Seriously, don’t use this. This is the same program as before.First, it takes a pointer to a buffer.Next, it takes a maximum size of the string (‘\0’ included).stdin just means the data will be coming from the keyboard.You’ll find out more about stdin later.
+68    Chapter 2scanf() vs fgets()
+Title Fight
+Roll up! Roll up! It’s time for the title fight we’ve all been waiting for. In the red corner: nimble light, flexible but oh-so-slightly dangerous. It’s the bad boy of data input: scanf(). And in the blue corner, he’s simple, he’s safe, he’s the function you’d want to introduce to your mom: it’s fgets()! 
+scanf():
+scanf() can limit the data entered, so long as you remember to add the size to the format string.Yes! scanf() will not only allow you to enter more than one field, but it also allows you to enter 
+structured data including the ability to specify what characters appear between fields.Oof! scanf() gets hit badly by this one. When scanf() reads a string with the %s, it stops as soon as it hits a space. So if you want to enter more than one word, you either have to call it more than once, or use some fancy regular expression trick.
+fgets():
+fgets() has a mandatory limit. Nothing gets past him.  Ouch! fgets() takes this one on the chin. fgets() allows you to enter just one string into a buffer. No other data types. Just strings. Just one buffer. No problem with spaces at all. 
+fgets() can read the whole string every time.
+Round 1: Limits
+Do you limit the number of characters that a user can enter?  
+Round 2: Multiple fields
+Can you be used to enter more than one field?     
+Round 3: Spaces in strings
+If someone enters a string, can it contain spaces? 
+Result: fgets() takes this round on points.
+Result: scanf() clearly wins this round.
+Result: A fightback! Round to fgets().
+A good clean fight between these two feisty functions. Clearly, if you need to enter 
+structured data with several fields, you’ll want to use scanf(). If you’re entering a single unstructured string, then fgets() is probably the way to go.
+memory and pointersyou are here 4    69
+#include <stdio.h>int main(){  char *cards = "JQK";  char a_card = cards[2];  cards[2] = cards[1];  cards[1] = cards[0];  cards[0] = cards[2];  cards[2] = cards[1];  cards[1] = a_card;  puts(cards);  return 0;}
+Anyone f or t hre e-c ard mon te?
+In the back room of the Head First Lounge, there’s a game of three-card monte going on. Someone shuffles three cards around, and you have to watch carefully and decide where you think the Queen card went. Of course, being the Head First Lounge, they’re not using real cards; they’re using code. Here’s the program they’re using:The code is designed to shuffle the letters in the three-letter string “JQK.” Remember: in C, a string is just an array of characters. The program switches the characters around and then displays what the string looks like.The players place their bets on where they think the “Q” letter will be, and then the code is compiled and run. 
+Find the Queen.
+70    Chapter 2memory problems
+Oops...t he re’s a memor y problem...
+It seems there’s a problem with the card shark’s code. When the code is compiled and run on the Lounge’s notebook computer, this happens:
+Darn it. I knew that card shark couldn’t be trusted... 
+What’s more, if the guys try the same code on different machines and operating systems, they get a whole bunch of different errors: 
+What’s wrong with the code?
+> gcc monte.c -o monte && ./montemonte.exe has stopped working
+File  Edit   Window  Help   HolyCrap
+SegPhault!Bus Error! Segmentation Error!Whack!Kapow!
+> gcc monte.c -o monte && ./montebus error
+File  Edit   Window  Help   PlaceBet
+memory and pointersyou are here 4    71
+Whack!
+?What’s Your Hunch?
+It’s time to use your intuition. Don’t overanalyze. Just take a guess. 
+Read through these possible answers and select only the one you think is correct.What do you think the problem is? 
+The string can’t be updated.We’re swapping characters outside the string.The string isn’t in memory.Something else.
+72    Chapter 2gut instinct
+?What’s Your Hunch?
+It was time to use your intuition. You were to read through these possible answers and select only the one you think is correct.What did you think the problem was? 
+The string can’t be updated.We’re swapping characters outside the string.The string isn’t in memory.Something else.
+St r i ng li te rals c an ne ve r be update d
+A variable that points to a string literal can’t be used to change the contents of the string: 
+char *cards = "JQK"; This variable can’t modify this string.
+But if you create an array from a string literal, then you can modify it: 
+char cards[] = "JQK";
+It all comes down to how C uses memory...
+Solution
+memory and pointersyou are here 4    73
+In memor y: ch ar *c ards=“JQK”;
+The computer loads the string literal.
+When the computer loads the program into memory, it puts all of the constant values—like the string literal “JQK”—into the constant memory block. This section of memory is read only. 
+1
+char *cards="JQK"; ... cards[2] = cards[1];
+The program creates the cards variable on the stack.
+The stack is the section of memory that the computer uses for local variables: variables inside functions. The cards variable will live here. 
+2 cards
+12
+The cards variable is set to the address of “JQK.”
+The cards variable will contain the address of the string literal “JQK.” String literals are usually stored in read-only memory to prevent anyone from changing them.
+33
+The computer tries to change the string.
+When the program tries to change the contents of the string pointed to by the cards variable, it can’t; the string is read-only. 
+4
+So the problem is that string literals like “JQK” are held in read only memory. They’re constants.
+But if that’s the problem, how do you fix it? 
+4
+I can’t update that, buddy. It’s in the constant memory block, so it’s read-only.
+StackHeapGlobalsConstantsCode
+Lowest addressHighest addressRead-only memory
+\0J Q K
+To understand why this line of code causes a memory error, we need to dig into the memory of the computer and see exactly what the computer will do.
+74    Chapter 2copy and change
+If yo u’re goi ng to ch ange a s t r i ng , m ake a copy
+char cards[] = "JQK";
+It’s probably not too clear why this changes anything. All strings are arrays. But in the old code, cards was just a pointer. In the new code, it’s an array. If you declare an array called 
+cards and then set it to a string literal, the cards array will be a completely new copy. The variable isn’t just pointing at the string literal. It’s a brand-new array that contains a fresh copy of the string literal.To see how this works in practice, you’ll need to look at what happens in memory. 
+\0J KQ\0J KQ
+This string is in read-only memory......so make a copy of the string in a section of memory that can be amended.
+The truth is that if you want to change the contents of a string, you’ll need to work on a copy. If you create a copy of the string in an area of memory that’s not read-only, there won’t be a problem if you try to change the letters it contains.But how do you make a copy? Well, just create the string as a 
+new array. 
+Geek Bits
+If you see a declaration like this, what does it really mean?
+char cards[]
+ Well, it depends on where you see it. If it’s a normal variable declaration, then it means that cards is an array, and you have to set it to a value immediately:
+int my_function(){  char cards[] = "JQK";  ...}
+But if cards is being declared as a function argument, it means that cards is a pointer:
+void stack_deck(char cards[]){  ...}void stack_deck(char *cards){  ...}
+c ards[] or c ards*?
+There’s no array size given, so you have to set it to something immediately. cards is an array.cards is a char pointer.These two functions are equivalent.cards is not just a pointer. cards is now an array.
+memory and pointersyou are here 4    75
+StackHeapGlobalsConstantsCode
+In memor y: ch ar c ards[]=“JQK”;
+The computer loads the string literal.
+As before, when the computer loads the program into memory, it stores the constant values—like the string “JQK”—into read-only memory. 
+1
+char cards[]="JQK"; ... cards[2] = cards[1]; 
+The program creates a new array on the stack.
+We’re declaring an array, so the program will create one large enough to store the “JQK” string—four characters’ worth. 
+212
+The program initializes the array.
+But as well as allocating the space, the program will also copy the contents of the string literal “JQK” into the stack memory. 
+33
+So the difference is that the original code used a pointer to point to a read-only string literal. But if you initialize an array with a string literal, you then have a copy of the letters, and you can change them as much as you like.
+Lowest addressHighest addressRead-only memory
+We’ve already seen what happens with the broken code, but what about our new code? Let’s take a look. 
+\0J Q K\0J Q K
+76    Chapter 2test drive
+Test DriveSee what happens if you construct a new array in the code.
+#include <stdio.h>int main(){  char cards[] = "JQK";  char a_card = cards[2];  cards[2] = cards[1];  cards[1] = cards[0];  cards[0] = cards[2];  cards[2] = cards[1];  cards[1] = a_card;  puts(cards);  return 0;}
+> gcc monte.c -o monte && ./monteQKJ
+File  Edit   Window  Help   Where’sTheLady?
+The code works! Your cards variable now points to a string in an unprotected section of memory, so we are free to modify its contents. 
+Geek Bits
+One way to avoid this problem in the future is to never write code that sets a simple char pointer to a string literal value like:
+      char *s = "Some string";
+There’s nothing wrong with setting a pointer to a string literal—the problems only happen when you try to 
+modify a string literal. Instead, if you want to set a pointer to a literal, always make sure you use the const keyword:
+      const char *s = "some string";
+That way, if the compiler sees some code that tries to modify the string, it will give you a compile error:
+      s[0] = 'S';      monte.c:7: error: assignment of read-only location
+Yes! The Queen was the first card. I knew it...

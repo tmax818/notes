@@ -1,0 +1,62 @@
+
+
+
+A level-one heading
+===================
+
+
+A level-two heading
+-------------------
+
+
+## A level-two heading
+
+### A level-three heading ###
+
+As with setext-style headings, the heading text can contain formatting:
+
+# A level-one heading with a [link](/url) and *emphasis*
+
+> This is a block quote. This
+> paragraph has two lines.
+>
+> 1. This is a list inside a block quote.
+> 2. Second item
+
+
+    if (a > 3) {
+        moveShip(5 * gravity, DOWN);
+    }
+
+
+~~~~ {#mycode .haskell .numberLines startFrom="100"}
+qsort []
+= []
+qsort (x:xs) = qsort (filter (< x) xs) ++ [x] ++
+qsort (filter (>= x) xs)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|12|12|12|12|
+|123|123 |123|123|
+|1|1 |1|1|
+: Demonstration of pipe table syntax.
+
+
+
+Here is a footnote reference,[^1] and another.[^longnote]
+[^1]: Here is the footnote.
+[^longnote]: Here's one with multiple blocks.
+Subsequent paragraphs are indented to show that they
+belong to the previous footnote.
+{ some.code }
+The whole paragraph can be indented, or just the first
+line.
+In this way, multi-paragraph footnotes work like
+multi-paragraph list items.
+This paragraph won't be part of the note, because it
+isn't indented.

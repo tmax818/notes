@@ -42,7 +42,37 @@ I have to write for work. I have to write with proper citations. I am very fearf
 
 Someone asks a senior professor if he would recomend a graduate student for an open professor position at the university. The senior professor responds, "He has very good handwriting." 
 
-Someone asks a man's wife," who would want to have sex with her husband, look at him." The wife responds, "Prostitutes would."
+Someone asks a man's wife," who would want to have sex with her husband? Look at him." The wife responds, "Prostitutes would."
 
 Happy Vanentine's Day!
 
+* <2026-02-18 Wed>
+
+I am sitting in a Chemistry classroom in South Los Angeles on a cold, rainy Febuary morning. Why am I here, in this cold classroom in this sad and wonderful place? I lost my [[denote:20260218T063536][job]]. 
+
+
+* <2026-02-19 Thu>
+
+Less than 60 days from my 51st birthday, 100 pounds over weight, and a pain in my right foot that has been persistent for several months. I am sitting in an outdated, hastily and half-heartedly equipped chemistry classroom in South-Central Los Angeles. I have no idea what I am going to do today. That is not exactly true. 
+
+I have to stay late for a meeting, I think it's student councel. Whatever, my point is, I seem to make entries when I am fucking miserable and now is not an exception.
+
+I am really close to clearing my credential. It would be stupid to walk away from that. And upon reflection, miserable is a strong word. If I am to be honest about what I liked about the job was the very minimal responsibilites. I only taught 2 hours a day!
+
+I really liked programming. It seems I could hone my skills in my "spare time." Learning C and Go and also achieving my goal of getting my math credential.
+
+* <2026-02-22 Sun>
+
+** thoughts on future goals
+
+I was sitting with Alto on Friday and I counted the days until <2026-06-10 Wed>. I was happier at coding dojo. 
+
+** emacs vs vim
+
+I spent a lot of time messing with vim. Why not just use evil-mode. I read somewhere that evil-mode is a better version of vim then vim. 
+
+* <2026-02-27 Fri>
+
+I am filing an age discrimination case against LAUSD. Does the perp of the descrimination have to be a superior? My intuition is that the answer is "no", but I am not certain.
+
+This job, teaching, sucks. One asshole can ruin a job.

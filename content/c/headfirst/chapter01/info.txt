@@ -1,9 +1,0 @@
-Welcome to chapter 1, future Tyler.
-How long has it been you lazy piece-of-shit!
-
-I have included the creation of the simple 'rocks.c' in the
-makefile. All you have to do is run 'make' you pile of dog-shit!!!
-
-Then you have to run `./a.out` Can you remember to do that, fuck-stick?!
-
-You can run the cards program by running 'make cards'. 
