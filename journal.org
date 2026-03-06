@@ -1,65 +1,47 @@
 #+title: journal.org
 #+setup: num indent
 
+* <2026-03-06 Fri>
 
-* <2026-01-14 Wed>
+- second consecutive absence from work. 
+- tentative goal: prep for next week, but also plan an [[denote:20260306T055122][exit strategy]]. 
 
-I have to do something about keeping a journal. Sometimes simple is better. This is, as of now, a simple '.org' file called journal.org. A stumbling block for me has been thinking too hard and long about a perfect system. I can't think effectively without writing. So, not keeping a journal seems foolish.
+- from Geometry for Programmers:  
+  #+begin_quote
+ But software frameworks will come and go, and hardware architecture will evolve; the only thing that will stand the test of time is mathematics.
+  #+end_quote
 
-* <2026-01-16 Fri>
+- "paint the back of the fense" - jobs
 
-What if I wrote a book for my children? What if I recoreded my knowledge for them. 
+https://dannysuede.substack.com/p/paint-the-back-of-the-fence
 
-* <2026-01-17 Sat>
+What is the difference between:
 
-It seems the information is more important then what date it happened in keeping a journal. Today I have been focused on go and statistics. I feel compelled to install R!
+- the back of the fence
+- under the rug
+- in the wall
 
-* <2026-01-20 Tue>
+??
 
-Alas, I didn't install [[denote:20260214T192429][R]]. I just edited the previous entry for clarity before starting this one. I have done the same thing in the past.
+* <2026-03-05 Thu>
 
-The idea of a book for my children...What about an autobiography? It seems this would be an exercise for me in metacognition.
+Therapy last night. Within the same session I was "doing all that I could" then when the topic of sex arose, I was a free-loading piece-of-shit again. I really want to make this work, but it's not looking good.
 
-* <2026-01-21 Wed>
+I am taking a "mental health day" today. 
 
-- I don't want the [[file:autobiography/index.org][autobiography]] to be too detailed or a bitch session about my childhood. I do want to make a through inventory of what has happened and what went wrong. Also what went right. 
+* <2026-03-02 Mon>
 
-- An argument for having a modularized customization for emacs is that there are certain settings that have to be in the init file for emacs to be useful (i.e. the location of agenda files) 
+I complained about the harrasment and it seems to have stopped. I am not sure if the complaint had anything to do with it. I can only speculate. I stay in my room, by my self. I only interact with 15 year olds.
 
-* <2026-01-30 Fri>
+My depression is back. This weekend was one of the worst of my life. I don't know if my marrage will last. It will be 20 years in december, but that doesn't mean anything. Forty-year marrages end.
 
-Ice-out day. I truly feel responsible for what is happening. Every time I laughed, or even smiled at a racist joke, I help perpetuate facism. Toleration of intolerance is complicity.
+Maybe I have become weak. 
 
-I bought a sandwich on the day of protest. I don't sort my garbage. I don't adaquately prepare for teaching my students. Is it because they are brown? Would I behave the same way if I taught at Hart High? In a lot of ways, I am ashamed of my lack of vigilance; my lack of effort.   
+* <2026-02-27 Fri>
 
-* <2026-02-02 Mon>
+I am filing an age discrimination case against LAUSD. Does the perp of the descrimination have to be a superior? My intuition is that the answer is "no", but I am not certain.
 
-Doomscrolling. I doomscroll because I am unhappy, I am unhappy because I doomscroll. The last sentence was a joke. For who? It doesn't add substance to what I am writing. I wrote the first two sentences, because I have an issue with spending, what I see as, an excessive amount of time viewing content online that is not productive. 
-
-I have to write for work. I have to write with proper citations. I am very fearful. It seems time invested learning orgmode is not wasted.  
-
-* <2026-02-14 Sat>
-
-Someone asks a senior professor if he would recomend a graduate student for an open professor position at the university. The senior professor responds, "He has very good handwriting." 
-
-Someone asks a man's wife," who would want to have sex with her husband? Look at him." The wife responds, "Prostitutes would."
-
-Happy Vanentine's Day!
-
-* <2026-02-18 Wed>
-
-I am sitting in a Chemistry classroom in South Los Angeles on a cold, rainy Febuary morning. Why am I here, in this cold classroom in this sad and wonderful place? I lost my [[denote:20260218T063536][job]]. 
-
-
-* <2026-02-19 Thu>
-
-Less than 60 days from my 51st birthday, 100 pounds over weight, and a pain in my right foot that has been persistent for several months. I am sitting in an outdated, hastily and half-heartedly equipped chemistry classroom in South-Central Los Angeles. I have no idea what I am going to do today. That is not exactly true. 
-
-I have to stay late for a meeting, I think it's student councel. Whatever, my point is, I seem to make entries when I am fucking miserable and now is not an exception.
-
-I am really close to clearing my credential. It would be stupid to walk away from that. And upon reflection, miserable is a strong word. If I am to be honest about what I liked about the job was the very minimal responsibilites. I only taught 2 hours a day!
-
-I really liked programming. It seems I could hone my skills in my "spare time." Learning C and Go and also achieving my goal of getting my math credential.
+This job, teaching, sucks. One asshole can ruin a job.
 
 * <2026-02-22 Sun>
 
@@ -71,8 +53,61 @@ I was sitting with Alto on Friday and I counted the days until <2026-06-10 Wed>.
 
 I spent a lot of time messing with vim. Why not just use evil-mode. I read somewhere that evil-mode is a better version of vim then vim. 
 
-* <2026-02-27 Fri>
+* <2026-02-19 Thu>
 
-I am filing an age discrimination case against LAUSD. Does the perp of the descrimination have to be a superior? My intuition is that the answer is "no", but I am not certain.
+Less than 60 days from my 51st birthday, 100 pounds over weight, and a pain in my right foot that has been persistent for several months. I am sitting in an outdated, hastily and half-heartedly equipped chemistry classroom in South-Central Los Angeles. I have no idea what I am going to do today. That is not exactly true. 
 
-This job, teaching, sucks. One asshole can ruin a job.
+I have to stay late for a meeting, I think it's student councel. Whatever, my point is, I seem to make entries when I am fucking miserable and now is not an exception.
+
+I am really close to clearing my credential. It would be stupid to walk away from that. And upon reflection, miserable is a strong word. If I am to be honest about what I liked about the job was the very minimal responsibilites. I only taught 2 hours a day!
+
+I really liked programming. It seems I could hone my skills in my "spare time." Learning C and Go and also achieving my goal of getting my math credential.
+
+* <2026-02-18 Wed>
+
+I am sitting in a Chemistry classroom in South Los Angeles on a cold, rainy Febuary morning. Why am I here, in this cold classroom in this sad and wonderful place? I lost my [[denote:20260218T063536][job]]. 
+
+* <2026-02-14 Sat>
+
+Someone asks a senior professor if he would recomend a graduate student for an open professor position at the university. The senior professor responds, "He has very good handwriting." 
+
+Someone asks a man's wife," who would want to have sex with her husband? Look at him." The wife responds, "Prostitutes would."
+
+Happy Vanentine's Day!
+
+* <2026-02-02 Mon>
+
+Doomscrolling. I doomscroll because I am unhappy, I am unhappy because I doomscroll. The last sentence was a joke. For who? It doesn't add substance to what I am writing. I wrote the first two sentences, because I have an issue with spending, what I see as, an excessive amount of time viewing content online that is not productive. 
+
+I have to write for work. I have to write with proper citations. I am very fearful. It seems time invested learning orgmode is not wasted.  
+
+* <2026-01-30 Fri>
+
+Ice-out day. I truly feel responsible for what is happening. Every time I laughed, or even smiled at a racist joke, I help perpetuate facism. Toleration of intolerance is complicity.
+
+I bought a sandwich on the day of protest. I don't sort my garbage. I don't adaquately prepare for teaching my students. Is it because they are brown? Would I behave the same way if I taught at Hart High? In a lot of ways, I am ashamed of my lack of vigilance; my lack of effort.   
+
+* <2026-01-21 Wed>
+
+- I don't want the [[file:autobiography/index.org][autobiography]] to be too detailed or a bitch session about my childhood. I do want to make a through inventory of what has happened and what went wrong. Also what went right. 
+
+- An argument for having a modularized customization for emacs is that there are certain settings that have to be in the init file for emacs to be useful (i.e. the location of agenda files) 
+
+* <2026-01-20 Tue>
+
+Alas, I didn't install [[denote:20260214T192429][R]]. I just edited the previous entry for clarity before starting this one. I have done the same thing in the past.
+
+The idea of a book for my children...What about an autobiography? It seems this would be an exercise for me in metacognition.
+
+* <2026-01-17 Sat>
+
+It seems the information is more important then what date it happened in keeping a journal. Today I have been focused on go and statistics. I feel compelled to install R!
+
+* <2026-01-16 Fri>
+
+What if I wrote a book for my children? What if I recoreded my knowledge for them. 
+
+* <2026-01-14 Wed>
+
+I have to do something about keeping a journal. Sometimes simple is better. This is, as of now, a simple '.org' file called journal.org. A stumbling block for me has been thinking too hard and long about a perfect system. I can't think effectively without writing. So, not keeping a journal seems foolish.
+
