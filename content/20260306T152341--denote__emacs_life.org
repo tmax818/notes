@@ -1,0 +1,5 @@
+#+title:      denote
+#+date:       [2026-03-06 Fri 15:23]
+#+filetags:   :emacs:life:
+#+identifier: 20260306T152341
+

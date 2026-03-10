@@ -1,0 +1,15 @@
+#+title:      EGI
+#+date:       [2026-03-07 Sat 10:09]
+#+filetags:   :lausd:teaching:
+#+identifier: 20260307T100916
+
+* certification
+
+** shift A
+
+** shift B
+
+** shift C
+
+** shift D
+

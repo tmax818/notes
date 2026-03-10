@@ -1,5 +1,26 @@
 #+title: journal.org
-#+setup: num indent
+#+setup: num indent 
+
+
+
+
+* <2026-03-07 Sat>
+
+**  final [[denote:20260307T100916][EGI]] salary point training.
+*** passwords
+  [[https://tguskey.com/][Guskey]]
+  [[https://en.wikipedia.org/wiki/Robert_J._Marzano][Marzano]]
+
+ - "please sir, can I have more points?"
+
+   - switch from points to assess level of knowledge
+
+*** syllabus
+
+- you must grade according to syllabus
+- syllabus must be aligned with LAUSD policy
+
+
 
 * <2026-03-06 Fri>
 

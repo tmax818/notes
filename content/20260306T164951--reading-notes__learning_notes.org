@@ -1,0 +1,7 @@
+#+title:      reading notes
+#+date:       [2026-03-06 Fri 16:49]
+#+filetags:   :learning:notes:
+#+identifier: 20260306T164951
+
+
+Reading notes will be a repo for each book. The repository name will be book_title.git
