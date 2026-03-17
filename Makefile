@@ -1,0 +1,3 @@
+
+info:
+	@cat info.txt

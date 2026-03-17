@@ -2,7 +2,14 @@
 #+setup: num indent 
 
 
+* <2026-03-12 Thu>
 
+I think if I enjoyed teaching I would do the prep I need to do. I dread Monday and I live for Friday.
+I count the days till summer way too early. It's hard doing something you are not good at. It sucks to be new and it sucks to suck at something. It sucks even more, when you have someone randomly and consistently reminding you how much you suck(as a note to my future self, I am talking about a conflict with Olga Dubenchuk).
+
+I truly hate this job. The only job I loved was the only job I really lost. I don't think it's coming back.
+
+Today I learned what [[denote:20260312T160909][vibe coding]] is. It's basically the term for the practice that caused me to loose my job at [[denote:20260218T063536][coding dojo]].
 
 * <2026-03-07 Sat>
 

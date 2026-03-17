@@ -1,0 +1,6 @@
+#+title:      vibe coding
+#+date:       [2026-03-12 Thu 16:09]
+#+filetags:   :programming:
+#+identifier: 20260312T160909
+
+basically, coding with AI via natural language statements. Ask for a login form. then ask for security. 
