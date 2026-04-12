@@ -1,0 +1,8 @@
+#+title:      hydroponic
+#+date:       [2026-04-07 Tue 06:57]
+#+filetags:   :life:
+#+identifier: 20260407T065713
+
+* notes
+
+- <2026-04-07 Tue> I built something that actually works! As of today, it is running on my mains power. I have two solar panels that should be here <2026-04-09 Thu>.  

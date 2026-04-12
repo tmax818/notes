@@ -1,0 +1,5 @@
+#+title:      orgmode
+#+date:       [2026-03-25 Wed 06:55]
+#+filetags:   :emacs:orgmode:
+#+identifier: 20260325T065552
+

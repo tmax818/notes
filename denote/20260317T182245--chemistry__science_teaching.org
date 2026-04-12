@@ -1,0 +1,5 @@
+#+title:      chemistry
+#+date:       [2026-03-17 Tue 18:22]
+#+filetags:   :science:teaching:
+#+identifier: 20260317T182245
+

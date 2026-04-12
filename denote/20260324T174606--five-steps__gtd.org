@@ -1,0 +1,10 @@
+#+title:      five steps
+#+date:       [2026-03-24 Tue 17:46]
+#+filetags:   :gtd:
+#+identifier: 20260324T174606
+
+capture
+clarify
+organize
+reflect
+engage

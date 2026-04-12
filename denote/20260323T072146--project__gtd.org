@@ -1,0 +1,6 @@
+#+title:      project
+#+date:       [2026-03-23 Mon 07:21]
+#+filetags:   :[[denote:20260323T073117][gtd]]:
+#+identifier: 20260323T072146
+
+[[denote:20260323T073117][gtd]] definition: Any multistep outcome that can be completed within one year. Any commitment within that time frame needs to be reviewed at least weekly. See also Horizons of Focus: Horizon 1.
