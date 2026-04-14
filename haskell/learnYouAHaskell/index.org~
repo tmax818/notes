@@ -1,8 +1,0 @@
-#+title: haskell notes
-
-
-
-#+begin_src haskell
-  x = 42
-#+end_src
-
