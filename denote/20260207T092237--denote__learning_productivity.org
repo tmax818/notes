@@ -3,6 +3,6 @@
 #+filetags:   :learning:productivity:
 #+identifier: 20260207T092237
 
-* info
+* introduction
 
-- I am so resistent to using this. I don't know why.
+The solution to the problem of multiple buckets is using denote as a single source of truth. I have, at the moment, at least two different directories called "chemistry" that contain different files created at different times. My plan is to have a denote file called [[denote:20260317T182245][chemistry]] that will contain metadata and links to other resources. 

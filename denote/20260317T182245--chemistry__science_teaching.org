@@ -3,3 +3,11 @@
 #+filetags:   :science:teaching:
 #+identifier: 20260317T182245
 
+
+* books
+
+* teaching
+
+** 2026-2027 plan
+
+- <2026-04-14 Tue> My thoughts are to use AACT unit plans as my units. Kahn academy is another resource I intend to use. It seems AACT has been my goto so far. 
