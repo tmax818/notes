@@ -5,6 +5,6 @@
 
 * introduction
 
-This will be the single repository(bucket) for my notes.
+This will be the single repository(bucket) for my notes. [[file:denote/20260207T092237--denote__learning_productivity.org][Denote]]
 
 
