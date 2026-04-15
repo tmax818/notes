@@ -1,0 +1,8 @@
+#+title:      pandoc
+#+date:       [2026-04-15 Wed 09:27]
+#+filetags:   :programming:
+#+identifier: 20260415T092710
+
+* intro
+
+I think pandoc is cooler than I realized. 

@@ -1,9 +1,13 @@
 #+title: journal.org
 #+setup: num indent 
 
+* <2026-04-15 Wed>
+
+Took a sick day to deal with my citibank fuckup. 
+
 * <2026-04-14 Tue>
 
-Still no strike. If I count today, still 40 days to go... With the current contract, my salary will be 96K by the end of 2027. It seems I have to learn to love teaching... Part of what makes this so hard is my own lack of preparation.
+Still no strike. If I count today, still 40 days to go... With the current contract, my salary will be 96K by the end of 2027. It seems I have to learn to love teaching... Part of what makes this so hard is my own lack of [[denote:20260414T075250][preparation]].
 
 I pulled into the parking lot yesterday and I remembered the day I initerviewed. I sneaked into the lot as there was no parking. I contrasted my feeling of dread I had at that moment with the anticipation and desire I had that day. 
 
@@ -11,9 +15,9 @@ I pulled into the parking lot yesterday and I remembered the day I initerviewed.
 
 No strike. 40 days to go.
 
-I wrote the last entry on my home computer. I need a new computer. Why do I fuck up the details? Why do I not stay in the moment? I seriously considered growing cannabis in the [[denote:20260325T074325][koi pond]]/[[denote:20260413T064426][greenhouse]]. I see ads for rails developers all the time! It's probably the same one. What if I could teach computer science? What if I could earn a CS degree!? I loved the [[denote:20260218T063536][coding dojo]] job.
+I wrote the last entry on my home computer. I need a new computer. Why do I fuck up the details? Why do I not stay in the moment? I seriously considered growing cannabis in the [[denote:20260325T074325][koi pond]] house.  I see ads for rails developers all the time! It's probably the same one. What if I could teach computer science? What if I could earn a CS degree!? I loved the [[denote:20260218T063536][coding dojo]] job.
 
-I truly love [[denote:20260413T065103][chemistry]]
+I truly love [[denote:20260317T182245][chemistry]]. 
 
 * <2026-04-12 Sun>
 
