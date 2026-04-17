@@ -1,9 +1,14 @@
 #+title: journal.org
-#+setup: num indent 
+#+setup: num indent
+
+
+* <2026-04-17 Fri>
+
+I think I have decided to start [[denote:20260417T064703][cannabis]] cultivation. The citibank fuckup is still ongoing. 
 
 * <2026-04-15 Wed>
 
-Took a sick day to deal with my citibank fuckup. 
+Took a sick day to deal with my citibank fuckup. [[denote:20260415T092710][pandoc]]
 
 * <2026-04-14 Tue>
 
