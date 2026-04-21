@@ -3,3 +3,30 @@
 #+filetags:   :emacs:orgmode:
 #+identifier: 20260325T065552
 
+* intro
+
+* footnotes[fn:1]
+
+* properties
+:properties:
+:date: <2026-04-20 Mon>
+:definition: key-value pairs
+:end: 
+
+* another test
+
+** TODO can I see this and what is the property?
+:properties:
+:category: test
+:end:
+
+* columns
+
+
+
+[fn:1] This is a footnote...There are many like it 
+
+
+
+
+
