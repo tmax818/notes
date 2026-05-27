@@ -1,0 +1,15 @@
+#+title:      gtd
+#+date:       [2026-03-23 Mon 07:31]
+#+filetags:   :book:gtd:
+#+identifier: 20260323T073117
+
+* introduction
+
+I think this might be the key.
+I have so many things I need to, or would like to do.
+
+* 5 steps
+:PROPERTIES:
+:CUSTOM_ID: h:afb3eb88-66f4-4e4b-8149-adb0365cef89
+:END:
+

@@ -1,0 +1,480 @@
+#+title:      AACT unit plans
+#+date:       [2026-05-06 Wed 18:07]
+#+filetags:   :teaching:
+#+identifier: 20260506T180709
+#+startup: num indent
+
+
+* basics
+:properties:
+:time: 15
+:end:
+
+
+** objectives
+
+*** Distinguish between safe and unsafe behavior in the chemistry laboratory.
+*** Understand the importance of following safety rules in a chemistry laboratory.
+*** Responsibly follow safety guidelines presented in a chemistry laboratory.
+*** Correctly identify and name common pieces of laboratory equipment.
+*** Associate a hazard symbol with its meaning.
+*** Understand the importance of hazard symbols.
+*** Identify relevant, independent, dependent, and control variables for a research question.
+*** Plan and organize the steps necessary to conduct a simple investigation.
+*** Write a formal lab write up.
+*** Identify important features and characteristics of good graphs.
+*** Identify positive and negative correlations from a graph.
+*** Interpolate and extrapolate based on the patterns presented in a graph.
+*** Generate a well-formatted graph to present a set of data.
+*** Determine a method to measure the mass and volume of an irregular object.
+*** Accurately use laboratory equipment to gather data.
+*** Calculate the density of an irregular object using their data.
+*** Create a graph of mass vs. volume using class data and use the slope of the line to calculate the average density of the objects.
+*** Create a lab report using tables and graphs, following a provided template.
+*** Explain how the accuracy of a measurement will change depending upon the measuring tool used to measure.
+*** Determine the correct measurement based on the markings on the device used.
+*** Identify the uncertainty value for a measurement based on the markings on a measurement device used.
+*** Distinguish between the states of matter at the particle level.
+*** Explain, using examples how matter is different in one state versus another.
+*** Identify examples of different states of matter.
+*** Classify the three states of matter found in the laboratory by molecular level particle representations.
+*** Identify differences in the particle representations to classify them as pure substances, both elements and compounds, as well as mixtures.
+*** Verbally explain the classification system their group developed.
+*** Understand vocabulary related to chemistry.
+*** Identify whether a physical or chemical change has occurred.
+*** Provide evidence supporting which change has occurred.
+*** Identify physical properties substances.
+*** Identify appropriate methods for separating mixtures.
+*** Better understand how the periodic table is organized.
+*** Classify elements by family name, group number and period number.
+*** Identify reactions as either endothermic or exothermic.
+
+** topics
+
+*** Laboratory Safety
+*** Laboratory Equipment
+*** Data collection
+*** Graphing and analyzing data
+*** Quantitative Chemistry
+*** Measurement
+*** SI Units
+*** Significant Figures
+*** Uncertainty
+*** States of Matter
+*** Molecular Motion
+*** Physical Properties
+*** States of matter
+*** Pure substances
+*** Mixtures
+*** Separating mixtures
+*** Elements
+*** Periodic Table
+*** History
+*** Evidence of a chemical reaction
+*** Physical changes and properties
+*** Chemical changes and properties
+*** Endothermic/exothermic reactions
+
+
+* measurement
+:properties:
+:time: 15
+:end:
+
+
+** objectives
+
+*** Critically analyze a given problem, and complete appropriate calculations for mass and volume.
+*** Define percent composition.
+*** Calculate the percent composition of a substance in a sample.
+*** Take measurements using metric units.
+*** Determine the accuracy of different pieces of glassware.
+*** Accurately use laboratory equipment to gather data.
+*** Explain why some pieces of glassware produce better accuracy than others.
+*** Construct and analyze a line graph using Excel.
+*** Determine a method to measure the mass and volume of an irregular object.
+*** Calculate density and be able to explain why the density of an object does not change.
+*** Calculate the density of an irregular object using their data.
+*** Calculate the percentage error of their results using both the experimentally determined value and the accepted value for density.
+*** Convert very large and very small values into proper scientific notation.
+*** Recognize the benefit of using scientific notation to solve large scale problems.
+*** Use dimensional analysis for mass, length, volume, temperature, and density unit conversion problems.
+*** Convert between units of measurement using dimensional analysis.
+*** Understand the purpose of using dimensional analysis for converting between units of measurement.
+*** Use lab equipment to measure volume, mass, and length to the correct number of significant figures.
+
+** topics
+
+*** Measurement
+*** Percent Composition
+*** Dimensional Analysis
+*** Metric Units
+*** Accuracy and Precision
+*** Percent Error
+*** Density
+*** Scientific Notation
+*** Significant Figures
+*** Unit Conversion
+
+
+* phase change and heat transfer
+:properties:
+:time: 12
+:end:
+
+** objectives
+
+*** Explain how temperature is related to average kinetic energy.
+*** Provide evidence and explain what temperature measures.
+*** Describe how the temperature difference between substances can change the forces of attraction between the particles in the substances.
+*** Distinguish between the states of matter at the particle level.
+*** Explain, using examples how matter is different in one state versus another.
+*** Identify examples of different states of matter.
+*** Identify a state of matter based on a particle diagram.
+*** Differentiate between the states of matter based on the behavior of particles in a sample.
+*** Analyze data associated with physical properties (melting point and boiling point) to determine the state of matter of a given sample.
+*** Determine which phase change is occurring by analyzing the behavior of particles in a sample.
+*** Accurately distinguish between six possible phase changes: melting, freezing, evaporation, condensation, sublimation, and deposition.
+*** Realize that when a state change occurs, a temperature change does not take place.
+*** Quantify how much energy it takes to heat water from one temperature to another.
+*** Study the effects of heating and cooling a pure substance through a change of phase.
+*** Construct heating and cooling curves of a pure substance using experimental data.
+*** Determine the freezing and melting point temperatures of a pure substance.
+*** Use and understand specific heat.
+*** Recognize that all liquids don't behave the same when it comes to heat transfer.
+*** Understand the difference between thermal conductivity and specific heat capacity.
+*** Understand that each substance has its own unique specific heat capacity.
+*** Understand that three factors contribute to the amount of heat that is transferred when two substances are mixed: temperature, mass, and specific heat capacity.
+*** Compare and contrast the insulating properties of various materials.
+*** Discuss the thermal energy flow in a system.
+*** Collect appropriate laboratory data for use in calorimetric calculations.
+*** Calculate the specific heat capacity of a metal using calorimetry.
+*** Identify an unknown metal based on specific heat capacity values determined.
+
+** topics
+
+*** Energy
+*** Particle motion
+*** Temperature
+*** Average kinetic energy
+*** States of matter
+*** Pure substances
+*** Mixtures
+*** Particle representations of elements and compounds
+*** Intermolecular forces
+*** Phase changes
+*** States of matter
+*** Physical properties
+*** Melting point
+*** Boiling point
+*** Heating curve
+*** Specific heat capacity
+*** Heat transfer
+*** Phase diagram
+*** Thermal Conductivity
+*** Energy transfer
+*** Calorimetry
+*** Law of Conservation of Energy
+
+
+* periodic table
+:properties:
+:time: 10
+:end:
+
+** objectives
+
+*** Understand how the periodic table is organized and classify elements by family name, group number, and period number.
+*** Recognize the pattern of the physical properties of the elements with relationship to period and column.
+*** Understand and be able to predict the trends of atomic radius, ionic radius, and ionization energy.
+*** Identify unknown elements based on their properties of atomic radius, malleability, conductivity, and ionization energy.
+*** Classify an element as a metal, nonmetal, or metalloid based on its physical and chemical properties.
+*** Recognize the contributions to the organization of the periodic table over time by important scientists.
+*** Understand that the current periodic table was developed over time based on many discoveries, models and revisions.
+
+
+** topics
+
+
+*** Periodic Table
+*** Physical Properties
+*** Periodic Trends
+*** Atomic Radius
+*** Ionic Radius
+*** Ionization Energy
+[[https://youtu.be/Mmti4kKDcqA][video]]
+*** Metallic Properties
+
+
+* chemical names and formulae
+:properties:
+:time: 12
+:end:
+
+** objectives
+
+*** Name binary and ternary ionic compounds given the formula.
+*** Write formulas when given names of ionic compounds.
+*** From the compound name, recognize if it contains a polyatomic ion and/or a metal with a varying charge.
+*** Summarize “rules” for naming ionic compounds.
+*** Explain why stable ionic compounds are formed from a combination of cations and anions.
+*** Explain why different quantities of ions combine to make different compounds.
+*** Distinguish between the general locations of metal atoms versus non-metal atoms on the periodic table.
+*** Write a chemical formula for a covalent compound.
+*** Name a covalent compound using the appropriate rules of nomenclature.
+*** Predict the number of atoms needed in a molecular formula.
+*** Explain the purposes of superscripts and subscripts in chemical formulas.
+*** Correctly determine if a bond is ionic or covalent.
+*** Identify which elements can bond to each other.
+*** Determine the proper naming system to use for ionic versus covalent compounds.
+*** Determine the number of valence electrons for an atom.
+*** Create the correct Lewis Dot Structure from a given molecular compound or formula.
+*** Exhibit understanding of the differences between polar, nonpolar, and ionic substances.
+*** Calculate the percent of water (by mass) contained in a hydrated salt.
+*** Determine an empirical formula from percent composition data of a substance.
+*** Determine the formula of a hydrate from collected laboratory data.
+
+
+** topics
+
+*** Covalent Bonding
+*** Covalent nomenclature and formula writing
+*** Electronegativity
+*** Empirical Formulas
+*** Formula Writing
+*** Intermolecular forces
+*** Ionic Bonding
+*** Law of Definite Proportions
+*** Lewis Structures
+*** Melting Point
+*** Metals and Nonmetals
+*** Molecular Formula
+*** Molecular Structure
+*** Molecules
+*** Molecules & Bonding
+*** Naming Compounds
+*** Naming ionic compounds
+*** Percent Composition
+*** Polarity
+*** Polyatomic Ions
+
+
+* chemical bonding
+:properties:
+:time: 12
+:end:
+
+** objectives
+
+*** Distinguish between the locations of metal atoms versus non-metal atoms on the periodic table.
+*** Use electronegativity values to predict whether an ionic or covalent bond is most likely to form.
+*** Identify compounds as ionic, covalent, or metallic based on their chemical formula.
+*** Predict the number of atoms needed in a molecular formula.
+*** Examine ratios of atoms in compounds.
+*** List some properties of ionic, covalent, and metallic bonds.
+*** Compare and contrast the basic structure of ionic and molecular compounds.
+*** Determine the number of valence electrons for an atom.
+*** Create a Lewis dot structure for an atom, covalent compound, and ionic compound.
+*** Predict the charge of an ion.
+*** Predict the molecular shape of a covalent molecule based upon its Lewis dot structure.
+*** Explain why stable, neutral ionic compounds are formed from cations and anions.
+*** Explain why different quantities of ions combine to make different compounds.
+*** Explain the purposes of superscripts and subscripts in chemical formulas.
+*** Name and write the formulas for binary and ternary ionic compounds.
+*** Visualize “free-moving electrons” in metallic bonding.
+*** Identify that different metals have different properties.
+*** Conceptualize the impact of one electron pair domain acting upon another, and understand how those interactions result in the molecular geometries predicted by VSEPR theory.
+*** Describe the implications of electron pair repulsions on molecular shape.
+*** Understand that the molecular shape names are descriptions of the actual shape.
+*** Make the correlation between geometry, non-bonding pairs and molecular shape.
+*** Relate the shape of a molecule and the relative electronegativity values of its constituent atoms to the polarity of the molecule.
+*** Explain the meaning of the following: cohesion, adhesion, surface tension, and capillary action.
+*** Describe the unique behaviors of water molecules, and why they are important.
+*** Determine the polarity of molecules.
+*** Rank molecules in order of increasing strength of van der Waals forces, given a set of structural formulas for several compounds.
+*** Manipulate models to demonstrate molecular orientations giving rise to London dispersion forces, dipole-dipole forces and hydrogen bonds.
+*** Identify the intermolecular forces present in chemical substances.
+*** Recognize that physical properties are related to intermolecular forces.
+
+** topics
+
+*** Ionic Bonding
+*** Covalent Bonding
+*** Naming Compounds
+*** Molecular Formulas
+*** Molecular Structure
+*** Lewis Dot Structures
+*** Molecular Shapes
+*** VSEPR Theory
+*** Molecular Geometry
+*** Electronegativity
+*** Polarity
+*** Physical Properties
+*** Metallic Bonds
+*** Magnetism
+*** Electric current
+*** Electrons
+*** Resonance
+*** Properties of Water
+*** Intermolecular Forces
+*** London Dispersion Forces
+*** Dipole-dipole Forces
+*** Hydrogen Bonding
+
+
+* chemical equations
+:properties:
+:time: 12
+:end:
+
+
+** objectives
+
+*** Explain and apply the law of conservation of mass.
+*** Identify what substances are the reactants and what substances are the products in a chemical reaction.
+*** Count atoms in a given chemical formula.
+*** Identify and differentiate between a coefficient and a subscript.
+*** Write and balance chemical equations.
+*** Recognize when a chemical change takes place.
+*** Perform a composition, decomposition, single displacement, and double displacement reaction.
+*** Use the given reactants in a double replacement reaction to predict the possible products
+*** Use data from observations to make evidence-based conclusions.
+*** Predict the products of a combustion reaction.
+*** Identify a reversible and a nonreversible reaction.
+*** Create particle diagrams for solutions containing dissociated ions.
+*** Create an activity series.
+
+
+** topics
+
+*** Chemical Reactions
+*** Stoichiometry
+*** Balancing Equations
+*** Classification of Reactions
+*** Law of Conservation of Matter
+*** Chemical Change
+*** Chemical Formula
+*** Coefficients
+*** Subscripts
+*** Predicting Products
+*** Combustion Reactions
+*** Reversible Reactions
+*** Nonreversible Reactions
+*** Indicators of Chemical Change
+*** Net Ionic Equations
+*** Solubility Rules
+*** Particle Diagrams
+*** Activity Series of Metals
+
+
+
+* stoichiometry
+:properties:
+:time: 6
+:end:
+
+** objectives
+
+** topics
+
+
+* aqueous solutions
+
+** objectives
+
+** topics
+
+* acid and base
+
+** objectives
+
+** topics
+
+* gas law
+
+** objectives
+
+** topics
+
+* thermochemistry and thermodynamics
+ 
+** objectives
+
+** topics
+
+* kinetics
+
+** objectives
+
+** topics
+
+
+* atomic structure
+
+** objectives
+
+** topics
+
+* equilibrium
+
+** objectives
+
+** topics
+
+* nuclear
+:properties:
+:time: 6
+:end:
+
+** objectives
+
+*** Compare and contrast the processes of fission and fusion.
+
+*** Define isotopes and explain the differences and similarities in subatomic particles for isotopes of the same element.
+
+*** Describe what characteristics of an isotope tend to make it radioactive.
+
+*** Explain the stabilizing function of neutrons in the nucleus.
+
+*** Recognize the factors that contribute to isotopes.
+
+*** Calculate the number of subatomic particles in different isotopes.
+
+*** Calculate an element's atomic mass based on relative abundance and mass numbers.
+
+*** Define stable isotope.
+
+*** Explain the difference between a chemical reaction and a nuclear reaction.
+
+*** Describe the changes that occur in an atom in three types of nuclear decay.
+*** Define the meaning of “half-life.”
+*** Indicate what happens to a sample size when it undergoes a half-life decay.
+*** Identify that radiation is emitted during the decay process.
+*** Determine the approximate sample size that will remain based on the length of a half-life for a given sample.
+*** Identify the shape of the graph produced during exponential decay.
+*** Determine the half-life of a radioisotope from a mass versus time graph.
+*** Understand how scientists use half-lives and carbon dating to try to determine the age of fossils and rocks.
+*** Model the process of radioactive decay to illustrate half-life and conservation of mass.
+*** Model the process using half-life through manipulatives.
+*** Consistently use radiometric data to date rock samples and explain how radiometric dating works.
+*** Use radiometric data to suggest a theory about the Atlantic Ocean's past (specifically, seafloor spreading).
+*** Explain how different radioactive isotopes (with different half-lives) can be used to explore the history of different objects. Specifically, students will consider the difference between C-14 dating of organic material and K-40 dating of seafloor rocks.
+*** List uses for radioactive isotopes.
+*** Devise a technique that will collect data, by means of working backwards, to determine the time (time-zero) that the ice began melting at their lab stations.
+*** Determine the rate of melting.
+*** Construct a linear graph to illustrate melting rate.
+*** Construct an exponential graph, utilizing class data, to illustrate melting rate.
+
+** topics
+
+*** Nuclear Fusion
+*** Nuclear Fission
+*** Nuclear Equations
+*** Origin of Elements
+*** Radioactive Decay
+*** Radioactive Isotopes
+*** Half-Life
+*** Radiation
+
+
+* organic chemistry

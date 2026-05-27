@@ -1,0 +1,23 @@
+#+title:      Planning
+#+date:       [2026-04-23 Thu 11:37]
+#+filetags:   :planning:productivity:
+#+identifier: 20260423T113724
+
+* introduction
+
+** Proper planning prevents poor performance.
+
+One area under this category is [[denote:20260421T075417][lesson plan]]ing.
+You can't engage in [[denote:20260421T075751][lesson preparation]] until you make a [[denote:20260421T075417][lesson plan]]!
+There is also planning associated with [[denote:20260323T073117][gtd]].
+I think that [[denote:20260423T114129][goal setting]] is the same as planning.
+
+[[denote:20260423T114343][school year 2026-2027]]
+
+** planning vs. [[denote:20260521T071324][preparation]].
+
+The following is what my AI overload told me:
+
+#+begin_quote
+in essence, planning sets the direction, while preparation ensures the capability to execute that direction despite unforseen changes.
+#+end_quote

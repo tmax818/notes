@@ -4,4 +4,4 @@
 #+identifier: 20260306T164951
 
 
-Reading notes will be a repo for each book. The repository name will be book_title.git
+Reading notes will be a repo for each [[denote:20260427T075531][book]]. The repository name will be book_title.git. However, it seems that a note should be created for each book to hold [[denote:20260427T075854][metadata]] such as fleeting notes or dates read. At the very least, the note would contain a link to the repo!

@@ -1,0 +1,9 @@
+#+title:      how to speak so that people want to listen
+#+date:       [2026-04-29 Wed 06:37]
+#+filetags:   :course:teaching:
+#+identifier: 20260429T063752
+
+
+#+begin_quote
+Listening is the doorway to understanding.
+#+end_quote

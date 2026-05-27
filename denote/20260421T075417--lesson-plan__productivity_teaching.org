@@ -1,0 +1,8 @@
+#+title:      lesson plan
+#+date:       [2026-04-21 Tue 07:54]
+#+filetags:   :productivity:teaching:
+#+identifier: 20260421T075417
+
+* introduction
+
+There is a distinction between lesson planning and [[denote:20260421T075751][lesson preparation]] which is what you do **after** the plan is written. 

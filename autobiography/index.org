@@ -1,30 +1,66 @@
 #+title: autobiography
 
+* introduction
+
+Education has become paramount in my life.
+My thought is to base the work on schools attended.
+Many of the cities are only associated with schools.
+
+** titles
+
+- my education
+- teaching mr. tyler
+
+
 * cities
+
 ** san gabriel
+
+
 ** san dimas
+
 *** throwing trash out of the truck
+
 *** puppy named toby
+
 *** burglary
+
 *** gunpoint
+
 ** glendora
+
 ** parker az
+
 ** west los angeles
 *** saxon
 *** ashton
 *** apartment with smelly halls midvale??
 *** stoner
+
+
+** west hollywood
+
 ** sherman oaks
 *** aparatment with roommates 
 *** 14727 magnolia
+
+
 ** simi valley
 *** oak knolls
+
+
 ** northridge
 *** hoarace
+
+
 ** santa clarita
+
 *** via farallon
-** first steps
+
+
+
 * schools
+
 ** preschool ms. hemstreat
 ** sellars
 ** bidwell??
@@ -38,6 +74,8 @@
 ** csula
 ** flatiron
 ** coc
+
+
 * occupations
 ** construction
 ** custodian

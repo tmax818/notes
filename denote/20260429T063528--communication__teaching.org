@@ -1,0 +1,8 @@
+#+title:      communication
+#+date:       [2026-04-29 Wed 06:35]
+#+filetags:   :teaching:
+#+identifier: 20260429T063528
+
+* intro
+
+I have started [[denote:20260429T063752][how to speak so that people want to listen]].

@@ -1,0 +1,9 @@
+#+title:      The Teaching Company
+#+date:       [2026-04-21 Tue 07:33]
+#+filetags:   :lifelonglearning:productivity:
+#+identifier: 20260421T073304
+
+* introduction
+
+I made this note to better document my use of this resource. My current concern is that I rewatch too much and don't explore new areas. [[denote:20260421T073557][life long learning]] is so important to me. This is a huge resource and I am not sure how to organize it. My thought is to have a repo for each course. 
+

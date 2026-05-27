@@ -8,6 +8,9 @@
 
 * teaching
 
-** 2026-2027 plan
+** [[denote:20260423T114343][school year 2026-2027]]
 
-- <2026-04-14 Tue> My thoughts are to use AACT unit plans as my units. Kahn academy is another resource I intend to use. It seems AACT has been my goto so far. 
+- <2026-04-14 Tue> My thoughts are to use [[denote:20260506T180709][AACT unit plans]] as my units. [[denote:20260428T064928][Kahn academy]] is another resource I intend to use. It seems AACT has been my goto so far.
+
+- <2026-04-28 Tue> It seems rather silly to have a single "goto" for something as extensive as chemistry.
+

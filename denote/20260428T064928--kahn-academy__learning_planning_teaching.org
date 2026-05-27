@@ -1,0 +1,49 @@
+#+title:      Kahn academy
+#+date:       [2026-04-28 Tue 06:49]
+#+filetags:   :learning:planning:teaching:
+#+identifier: 20260428T064928
+
+* physics
+
+
+** middle school
+
+*** motion and force
+*** non-contact interactions
+*** energy
+*** waves
+
+** high school
+
+*** motion and force
+*** force pairs and momentum
+*** gravitation
+*** electrostatics
+*** energy
+*** electromagnetics
+*** electromagnetic radiation
+*** nuclear physics
+
+
+
+* chemistry
+
+** middle school
+
+*** classifying matter
+*** physical properties of matter
+*** chemical changes
+*** thermal energy and heat
+
+** high school
+
+*** atoms, isotopes, and ions
+*** atomic models nad periodicity
+*** chemical bonding
+*** chemical reactions
+*** stoichiometry and the mole
+*** states of matter
+*** thermochemistry
+*** solutions, acids, and bases
+*** reaction rates and equilibrium
+*** nuclear chemistry

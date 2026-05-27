@@ -1,0 +1,25 @@
+#+title:      Teach like a Champion
+#+date:       [2026-04-21 Tue 08:06]
+#+filetags:   :book:teaching:
+#+identifier: 20260421T080633
+
+* intro
+
+A book about [[denote:20260421T081038][teaching]]. I don't have a pdf of this book, so the reading notes will be here for now.
+
+* notes
+
+** chapter 1
+
+*** five themes:
+
+**** Understanding human cognitive structuree means building long-term memory and managing working memory.
+**** Habits accelerate learning
+**** What students attend to is what they will learn about
+**** Motivation is social
+**** Teaching well is relationship building
+
+
+
+* citation?
+

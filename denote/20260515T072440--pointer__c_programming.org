@@ -1,0 +1,8 @@
+#+title:      pointer
+#+date:       [2026-05-15 Fri 07:24]
+#+filetags:   :c:programming:
+#+identifier: 20260515T072440
+
+* definition
+
+just the address of a piece of data in memory

@@ -1,0 +1,17 @@
+#+title:      todo
+#+date:       [2026-04-20 Mon 07:09]
+#+filetags:   :life:productivity:
+#+identifier: 20260420T070956
+
+I have a lot of shit to do. It seems that orgmode is the best system I know of.
+
+* TODO Make a new todo note in denote :testing:
+:properties:
+:category: test
+:end:
+
+* TODO finish C and D in EGI
+:properties:
+:category: work
+:end:
+

@@ -1,0 +1,51 @@
+#+title:      school year 2026-2027
+#+date:       [2026-04-23 Thu 11:43]
+#+filetags:   :planning:teaching:
+#+identifier: 20260423T114343
+
+* introduction
+
+I have two preps: [[denote:20260317T182245][chemistry]] and [[denote:20260427T081636][adv phy sci]]
+
+** fleeting
+*** get a clock for the back wall.
+*** seating chart
+**** no seating at lab tables
+**** use chalk on tables for names (alphabetical)
+**** learn names before the first day.
+*** follow a schedule
+*** develop bathroom proceedure: place for planners needing signature
+*** private server for security and limit AI
+*** paper tests
+*** prep for physics first.
+*** element of the day
+*** fix room sound
+**** acoustics
+**** sound system
+**** music
+**** sound effects
+
+
+* notes
+
+Start with [[denote:20260428T064928][Kahn academy]] to review elementary and middle school concepts in both chem and phy.
+
+** "non-negotiables"
+
+*** board:
+- hw/exit ticket
+- standards
+- agenda
+- bell work
+- learning objective
+
+*** required practices
+
+- think pair share
+- station rotation
+
+
+** daily prep
+
+I hope to have ~170 days worth of lesson plans. I have to remember that I have two sections of [[denote:20260427T081636][adv phy sci]]. The 180 should be in 80 and 100 for fall and spring, respectively.
+- 80/5 = 16 weeks, 100/5 = 20 weeks. 

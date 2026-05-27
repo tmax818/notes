@@ -1,0 +1,9 @@
+#+title:      C
+#+date:       [2026-05-15 Fri 06:53]
+#+filetags:   :programming:
+#+identifier: 20260515T065333
+
+
+* introduction
+
+

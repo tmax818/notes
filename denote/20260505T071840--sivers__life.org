@@ -1,0 +1,13 @@
+#+title:      sivers
+#+date:       [2026-05-05 Tue 07:18]
+#+filetags:   :life:
+#+identifier: 20260505T071840
+
+https://sive.rs/
+
+I haven't read his page in a while. I have several great ideas from a fifteen minute look.
+
+- use a database for better organization of content
+- one sentence per line: md and html will form them into paragraphs. LaTeX will too.
+- You have to steal time from comfort to make accomplishments.
+- make a text file for each journal entry: year-month-day.txt for each day. You can automate this from the command line. I feel this is more doable because I got a good night sleep! 

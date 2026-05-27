@@ -1,0 +1,16 @@
+#+title:      lesson preparation
+#+date:       [2026-04-21 Tue 07:57]
+#+filetags:   :teaching:
+#+identifier: 20260421T075751
+
+* introductionn
+
+This should be distinguished from [[denote:20260421T075417][lesson plan]]ing. Someone else can write a lesson plan. Each teacher must *prepare* for each lesson based on student needs.
+
+* first step
+
+Know your content well.[fn:1]
+
+* Footnotes
+
+[fn:1] This is taken from *[[denote:20260421T080633][Teach like a Champion]] 3.0* 

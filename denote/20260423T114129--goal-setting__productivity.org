@@ -1,0 +1,6 @@
+#+title:      goal setting
+#+date:       [2026-04-23 Thu 11:41]
+#+filetags:   :productivity:
+#+identifier: 20260423T114129
+
+see [[denote:20260423T113724][Planning]].

@@ -1,0 +1,10 @@
+#+title:      rails
+#+date:       [2026-04-29 Wed 11:38]
+#+filetags:   :programming:
+#+identifier: 20260429T113823
+
+* intro
+
+As in ruby on rails. My thought is to build a rails app this summer for the next academic year. Maybe with that experience, I can get a job as a rails dev???
+
+[[https://rubyonrails.org/][site]] 

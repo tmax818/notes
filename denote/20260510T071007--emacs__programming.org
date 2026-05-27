@@ -1,0 +1,6 @@
+#+title:      emacs
+#+date:       [2026-05-10 Sun 07:10]
+#+filetags:   :programming:
+#+identifier: 20260510T071007
+
+I'm not sure how I feel about *emacs*. It's weird. 

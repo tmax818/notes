@@ -1,0 +1,6 @@
+#+title:      ruby
+#+date:       [2026-05-08 Fri 04:11]
+#+filetags:   :programming:
+#+identifier: 20260508T041141
+
+[[https://en.wikipedia.org/wiki/Ruby_(programming_language)][wikipedia]]

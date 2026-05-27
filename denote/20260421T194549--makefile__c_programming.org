@@ -1,0 +1,7 @@
+#+title:      makefile
+#+date:       [2026-04-21 Tue 19:45]
+#+filetags:   :c:programming:
+#+identifier: 20260421T194549
+
+
+- [[https://makefiletutorial.com][tutorial]]

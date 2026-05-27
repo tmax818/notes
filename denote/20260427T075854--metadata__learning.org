@@ -1,0 +1,8 @@
+#+title:      metadata
+#+date:       [2026-04-27 Mon 07:58]
+#+filetags:   :learning:
+#+identifier: 20260427T075854
+
+* intro
+
+data about data...
