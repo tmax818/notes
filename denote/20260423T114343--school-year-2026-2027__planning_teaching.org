@@ -12,18 +12,33 @@ I have two preps: [[denote:20260317T182245][chemistry]] and [[denote:20260427T08
 *** seating chart
 **** no seating at lab tables
 **** use chalk on tables for names (alphabetical)
+this is a maybe.
+it's very messy
 **** learn names before the first day.
+
 *** follow a schedule
+
 *** develop bathroom proceedure: place for planners needing signature
+
 *** private server for security and limit AI
-*** paper tests
+
+*** paper tests?
+
 *** prep for physics first.
-*** element of the day
+
+*** element of the day?
+
 *** fix room sound
+
+*** have them google new terms
+
+*** use obsidian??
 **** acoustics
 **** sound system
 **** music
+***** play element song!
 **** sound effects
+***** fart noises
 
 
 * notes

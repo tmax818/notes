@@ -1,4 +1,4 @@
-#+title:      Planning
+#+title:      planning
 #+date:       [2026-04-23 Thu 11:37]
 #+filetags:   :planning:productivity:
 #+identifier: 20260423T113724

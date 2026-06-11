@@ -1,0 +1,26 @@
+#+title:      horizon 2
+#+date:       [2026-06-05 Fri 08:17]
+#+filetags:   :gtd:
+#+identifier: 20260605T081754
+
+* areas of focus and accountability
+
+#+begin_quote
+The segments of our life and work that we need to maintain, to ensrue stabilityh and health for ourselves and our enterprises (e.g. health, finances, customer service, strategic planning, family, career).
+#+end_quote
+
+- current job responsibilities
+
+#+begin_quote
+If  your're not totally sure what your job is, it will always feel overwhelming.
+#+end_quote
+
+* my horizon two
+
+** health
+
+** family
+
+** finances
+
+** career

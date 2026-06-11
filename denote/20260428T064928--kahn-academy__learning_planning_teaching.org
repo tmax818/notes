@@ -5,7 +5,6 @@
 
 * physics
 
-
 ** middle school
 
 *** motion and force
@@ -31,19 +30,31 @@
 ** middle school
 
 *** classifying matter
+
 *** physical properties of matter
+
 *** chemical changes
+
 *** thermal energy and heat
 
 ** high school
 
 *** atoms, isotopes, and ions
+
 *** atomic models nad periodicity
+
 *** chemical bonding
+
 *** chemical reactions
+
 *** stoichiometry and the mole
+
 *** states of matter
+
 *** thermochemistry
+
 *** solutions, acids, and bases
+
 *** reaction rates and equilibrium
+
 *** nuclear chemistry

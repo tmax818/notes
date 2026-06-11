@@ -1,8 +1,13 @@
-#+title: notes
+#+title: index.org
 #+author: Tyler Maxwell
 #+startup: num
 #+bibliography: bibliography.bib
 
 * introduction :notes:
 
-In the interest of having a mimimum number of "buckets," This document will serve as a reference for notes. It seems the need for a separate directory for some topics rises immediately as in the case with any programming language. Creating a separate repo for each programming language would create the problem of nested repos. However, a repository for reading notes of a particular book would obviate the need for a central location for large files (i.e. pdfs or epubs). A link to repos can be included in denote files which would help minimize Dropbox space.
+In the interest of having a mimimum number of "buckets," This document will serve as a reference for notes.
+It seems the need for a separate directory for some topics rises immediately as in the case with any programming language.
+Creating a separate repo for each programming language would create the problem of nested repos.
+However, a repository for reading notes of a particular book would obviate the need for a central location for large files (i.e. pdfs or epubs).
+A link to repos can be included in denote files which would help minimize Dropbox space.
+

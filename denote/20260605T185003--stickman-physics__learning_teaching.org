@@ -1,0 +1,10 @@
+#+title:      stickman physics
+#+date:       [2026-06-05 Fri 18:50]
+#+filetags:   :learning:teaching:
+#+identifier: 20260605T185003
+
+* intro
+:propeties:
+:link: https://stickmanphysics.com
+:end:
+

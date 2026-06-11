@@ -1,0 +1,8 @@
+#+title:      atom
+#+date:       [2026-06-09 Tue 08:05]
+#+filetags:   :science:teaching:
+#+identifier: 20260609T080526
+
+
++ The smallest unit of matter
++ contrast with [[denote:20260609T080622][element]]s.

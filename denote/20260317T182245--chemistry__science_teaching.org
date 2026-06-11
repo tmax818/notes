@@ -10,7 +10,56 @@
 
 ** [[denote:20260423T114343][school year 2026-2027]]
 
-- <2026-04-14 Tue> My thoughts are to use [[denote:20260506T180709][AACT unit plans]] as my units. [[denote:20260428T064928][Kahn academy]] is another resource I intend to use. It seems AACT has been my goto so far.
+- <2026-04-14 Tue>
 
-- <2026-04-28 Tue> It seems rather silly to have a single "goto" for something as extensive as chemistry.
+  My thoughts are to use [[denote:20260506T180709][AACT unit plans]] as my units.
+  [[denote:20260428T064928][Kahn academy]] is another resource I intend to use.
+  It seems AACT has been my goto so far.
+
+- <2026-04-28 Tue>
+  It seems rather silly to have a single "goto" for something as extensive as chemistry.
+
+- <2026-05-28 Thu 07:22>
+  I think it would be more effective and reduce cognitive load to have my own structure.
+
+  
+- <2026-06-01 Mon 20:56>
+
+
+The ideal scope and sequence for high school chemistry progresses from concrete, observable phenomena to abstract, theoretical concepts.
+The American Association of Chemistry Teachers (AACT) organizes its curriculum library into a sequential progression:
+
+* Foundations & Matter
+
+** [[https://teachchemistry.org/classroom-resources/chemistry-basics-unit-plan][Chemistry Basics]]:
+
+SI units, scientific notation, significant figures, data graphing, and classifying/separating matter.
+
+** [[https://teachchemistry.org/classroom-resources/atomic-structure-unit-plan][Atomic Structure]]:
+
+History of atomic theory, subatomic particles, isotopes, and the Bohr model.
+
+* Properties & Structure
+
+** The Periodic Table: Organization, periodic trends (electronegativity, atomic radius).
+
+** Molecules & Bonding: Ionic, covalent, and metallic bonds, Lewis structures, molecular geometry (VSEPR), and intermolecular forces.
+
+** States of Matter: Gas laws and kinetic-molecular theory. 
+
+* Quantitative Chemistry & Reactions
+
+** The Mole & Stoichiometry: Molar mass, Avogadro's number, and balancing equations.
+
+** Reactions & Stoichiometry: Classifying reactions and calculating theoretical yield. 
+
+* Advanced Applications
+
+** Solutions: Molarity, solubility, and colligative properties.
+
+** Acids & Bases: pH scales, titrations, and neutralization.
+
+** Energy & Thermodynamics: Enthalpy, entropy, and specific heat capacity.
+
+** Kinetics & Equilibrium: Reaction rates and Le Chatelier's principle. 
 

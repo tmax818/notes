@@ -5,4 +5,6 @@
 
 * intro
 
-How to keep track of [[denote:20260306T164951][reading notes]]. Yes each book should have a repo, but I need to know the repo exists. Each book should have a note that points to the repo at the very least. 
+How to keep track of [[denote:20260306T164951][reading notes]].
+Yes each book should have a repo, but I need to know the repo exists.
+Each book should have a [[denote:20260207T092237][denote]] note that points to the repo at the very least. 

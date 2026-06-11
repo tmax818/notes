@@ -5,4 +5,4 @@
 
 * intro
 
-data about data...
+The short definition: data about data.

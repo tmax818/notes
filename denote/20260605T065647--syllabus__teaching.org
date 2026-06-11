@@ -1,0 +1,8 @@
+#+title:      syllabus
+#+date:       [2026-06-05 Fri 06:56]
+#+filetags:   :teaching:
+#+identifier: 20260605T065647
+
+* introduction
+
+make two 

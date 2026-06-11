@@ -1,0 +1,6 @@
+#+title:      element
+#+date:       [2026-06-09 Tue 08:06]
+#+filetags:   :science:teaching:
+#+identifier: 20260609T080622
+
++ contrast with [[denote:20260609T080526][atom]]s.[[denote:20260317T182245][chemistry]]

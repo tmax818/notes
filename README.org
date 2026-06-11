@@ -3,9 +3,10 @@
 #+startup: indent
 
 
-* introduction
+* introduction :notes:
 
-This will be the single repository or "bucket" for my notes. [[file:denote/20260207T092237--denote__learning_productivity.org][Denote]] files will contain links to reference materials and works in progress. This is my "slipbox" or my "zettlekasten". 
+This will be the single repository or "bucket" for my notes.
+[[file:denote/20260207T092237--denote__learning_productivity.org][Denote]] files will contain links to reference materials and works in progress.
+This is my "slipbox" or my "zettlekasten".
 
 
-this is from the phone app

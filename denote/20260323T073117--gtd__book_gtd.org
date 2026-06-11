@@ -3,13 +3,345 @@
 #+filetags:   :book:gtd:
 #+identifier: 20260323T073117
 
-* introduction
 
-I think this might be the key.
-I have so many things I need to, or would like to do.
+* part 1
+:properties:
+:title: the art of gettinng things done
+:end:
 
-* 5 steps
-:PROPERTIES:
-:CUSTOM_ID: h:afb3eb88-66f4-4e4b-8149-adb0365cef89
-:END:
+** chapter 1 a new practice for a new reality
+
+** chapter 2 getting control of your life: the five steps of mastering workflow
+
+
+
+1. [[capture]] what has our attention;
+2. [[clarify]] what each item means and what to do about it;
+3. [[organize]] the results which present the options we
+4. [[reflect]] on which we then choose to
+5. [[engage]] with.
+
+
+*** capture
+
+**** gathering 100% of the "incompletes"
+
+**** the capture tools
+
+**** the physical in-tray
+
+**** writing paper and pads
+
+**** digital and voice note taking
+
+**** email and texting
+
+**** technology integration
+
+**** the success factors for capturing
+
+**** get it all out of your head
+
+**** minimize the number of capture locations 
+
+**** empty the capture tools regularly
+
+*** clarify
+
+**** what is it?
+
+**** is it actionable?
+
+*** organize
+
+**** projects
+
+**** project support material
+
+**** the next-action categories
+
+**** calendar
+
+*** reflect
+
+*** engage
+
+
+
+
+
+** chapter 3 getting projects creratively under way: the five phases of project planning
+
+#+begin_quote
+
+The key ingredients of  relaxed control are (1) clearly defined outcomes (projects) and the next actions required to move them toward closure, and (2) reminders placed in a trusted system that is reviewed regularly. This is what I call horizontal focus. Although it may seem simple, the actual application of the process can create profound results.
+
+#+end_quote
+
+*** enhancing vertical focus
+
+*** the natural planning model
+
+**** a simple example: planning dinner out
+
+**** natural planning is not necessarily normal
+
+*** the unnatural planning model
+
+**** when the "good" idea is a bad idea
+
+*** the reactive planning model
+
+*** natural planning techniques: the five phases
+
+#+begin_quote
+
+It goes without saying, but still must be said again: thinking in more effective ways about projects and situations can make things happen sooner, better, and more successfully.
+
+#+end_quote
+
+#+begin_quote
+
+1. defining purpose and principles
+2. outcome visioning
+3. brainstorming
+4. organizing
+5. identifying next actions
+
+#+end_quote
+
+**** purpose
+
+**** principles
+
+**** vision/outcome
+
+**** brainstorming
+
+**** organizing
+
+**** next actions
+
+
+* part 2
+:properties:
+:title: practicing stress-free productivity
+:end:
+
+** chapter 4
+:properties:
+:title: getting started: setting up the time, space, and tools
+:end:
+
+** chapter 5 capturing: corralling your "stuff"
+
+
+** chapter 6 [[clarify]]ing: getting "in" to empty
+
+
+** chapter 7 
+:properties:
+:title: organizing: setting up the right buckets
+:end:
+
+#+begin_quote
+
+Being organized means nothing more or less than where something is matches what it means to you.
+
+#+end_quote
+
+*** the basic categories
+
+1. a projects list
+2. project support material
+3. calendar actions and information
+4. next actions list
+5. waiting for list
+6. reference material
+7. someday/maybe list
+
+
+** chapter 8 reflecting: keeping it all fresh and fuctional
+
+
+** chapter 9 engaging: making the best action choices
+
+*** the four-criteria model for choosing actions in the moment
+
++ context
++ time available
++ energy available
++ priority
+
+
+*** the threefold model for evaluating daily work
+
++ doing predefined work
++ doing work at it shows up
++ defining your work
+
+
+*** the six-level model for reviewing your own work
+
++ horizon 5: life
++ horizon 4: long-term visions
++ horizon 3: one/two year goals
++ horizon 2: areas of focus and accountability
++ horizon 1: current actions
+
+#+begin_quote
+It makes sense that each of these levels should enhance and align with the ones above it.
+#+end_quote
+
+
+
+** chapter 10 getting [[project]]s under control
+
+*** the need for more informal planning
+
+#+begin_quote
+
+The middle of every successful project looks like a disaster.
+
+Rosabeth Moss Kanter
+#+end_quote
+
++ look into Gantt charts
+
+
+#+begin_quote
+You need to set up systems and tricks that get you to think about your projects and situations more frequently, easily, and in more depth.
+#+end_quote
+
+*** what projects should you be planning?
+
+**** projects that need next actions about planning
+
+***** typical planning steps
+
+
+
+*** tools and sgtructures that support project thinking
+
+**** thinking tools
+
+**** writing instruments
+
+#+begin_quote
+
+Function often follows form. Give yourself a context for capturing thoughts, and thoughts will occur that you don't yet know you have.
+
+#+end_quote
+
+**** paper and pads
+
+**** easels and whiteboards
+
+**** thinking in your digital tools
+
+**** software tools
+
+- for me, the software tool I plan to use is emacs.
+
+
+
+*** how do I apply all this in my world?
+
+
+* part 3 the power of the key principles
+
+** chapter 11 the power of the capturing habit
+** chapter 12 the power of the next-action decision
+** chapter 13 the power of outcome focusing
+
+#+begin_quote
+
+Defining specific projects and next actionns that address real quality-of-life issues is productivity at its best.
+
+#+end_quote
+
+
+
+** chapter 14 GTD and cognitive science
+** chapter 15 the path of GTD mastery
+
+
+* conclusion
+
+
+* appendix: glossary of GTD terms
+
+** actionable
+something on which one intends to take action
+
+
+** action support
+
+
+** appropriate engagement
+
+the statea of being sufficiently OK with something's status to eliminate its pull on one's attention.
+
+** backlog
+
+the inventory of still unprocessed stuff that has accumulated in mind and physical environment.
+
+** capture
+to gather/generate items/ideas that are potentially meaningful and actionable. see [[collect]]
+
+** categories
+
+** clarify
+
+to determine exactly the meaning of something that has emerged in the environment from the [[capture]] phase.
+
+** collect
+to group items/ideas which require some assessment, decision or action. see [[capture]]
+
+** context
+phyiscal or psychological environment where reminders and informationn can be effectively sorted and accessed.
+
+** horizontal thinking
+assessing and managing content across a particular equal level(e.g. overviewing all the projects on has)
+
++ chapters 4-9
+
+  
+** map
+any tool for orienting appropriate focus and direction
++ calendar
++ list of actions
++ list of projects
++ agendas
++ strategic plans
++ checklists
++ weekly review chedklist
+  
+
+** organize
+
+to physically, visually, or digitally sort items of similar meanning into discrete categories and locations
++ lists
+
+** perspective
+
+** predefined work
+
+
+** process
+
+to decide what a captured or collected item means, the nature of its possible derivatives, and actions to take on results. see [[clarify]]
+** project
+any muiltstep outcome that can be completed within one year.
+any commitment within that time frame needs to be reviewed at least weekly
+
+** reflect
+to assess contents of any horizon or category of items from a broader prespective
+
+** review
+to analyze appropriate maps on a consistent bases or as needed for claritgy and focus
+
+** stuff
+
+anything in physical or psychological environment which requires a decision or action that is yet undetermined or unorganized.
 

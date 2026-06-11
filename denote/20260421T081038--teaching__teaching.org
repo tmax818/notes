@@ -7,7 +7,8 @@
 * introduction
 
 #+begin_quote
- Teaching is knowing the difference between "I taught it" and "they learned it." --John Wooden
+ Teaching is knowing the difference between "I taught it" and "they learned it."
+     --John Wooden
 #+end_quote
 
 ** philosophy
@@ -15,7 +16,6 @@
 *** notes
 
 - Teaching is the profession that makes all professions possible.
-  - I think it is also one of the most demanding professions. Failure at such an important undertaking stings more than failure fulfill a customer's order at Home Depot.
 - Lighting a candle as opposed to cursing the darkness.
 - The promotion of human freedom and preservation of the [[denote:20260430T072705][truth]].
 - An important question to ask myself: What would a great teacher be doing right now?
@@ -24,12 +24,15 @@
 
 *** positive aspects
 
-I am having a hard time with this. My family is proud of me and I am proud of myself. I want to be good at this, but right now I feel like I suck. I would be happy just to suck less.
+I am having a hard time with this.
+My family is proud of me and I am proud of myself.
+I want to be good at this, but right now I feel like I suck.
+I would be happy just to suck less.
 
 What can I do to suck less?
 
 - prepare
 - study
   - work at professional development.
-  - read [[denote:20260421T080633][Teach like a Champion]].
+  - read [[denote:20260421T080633][Teach like a Champion]] and other books.
     

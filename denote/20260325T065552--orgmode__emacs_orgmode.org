@@ -2,8 +2,11 @@
 #+date:       [2026-03-25 Wed 06:55]
 #+filetags:   :emacs:orgmode:
 #+identifier: 20260325T065552
+#+startup: overview 
 
 * intro
+
+[[file:/media/tyler/refs/pdf/org.pdf][org manual]
 
 * footnotes[fn:1]
 
@@ -23,9 +26,54 @@
 * columns
 
 
+* This is a Really Cool Heading
+:PROPERTIES:
+:Key: value 
+:END:
+
+#+BEGIN
+This is a block and stuff. 
+#+END
+
+I like headings, they're the best. These are some random thoughts:
+1. I like stuff
+2. I really like numbered lists of stuff
+   + I like bullet points even more
+   + you have to have at least two
+3. I like being confused about the <META> key and the C key.
+
+5. [@5] I skipped number four to test the weird syntax at the front of this line.
+
+   - emacs :: it's pretty cool
+
+   - vim :: everyone uses it and I am a slave to trends and care only for the aproval of others.
+
+6. I am not sure about /relativity/ theory.   
+
+
+
+* tables
+
+Tables kinda suck. 
+
+| term            | definition |
+|-----------------+------------|
+| basic chemistry |         12 |
+| measurement     |         15 |
+|-----------------+------------|
+|                 |         27 |
+|                 |            |
+|                 |            |
+
+
+* links
+
+[[shell:ls *.org]]
+[[elisp:org-agenda]]
+
 
 [fn:1] This is a footnote...There are many like it 
-
+ 
 
 
 

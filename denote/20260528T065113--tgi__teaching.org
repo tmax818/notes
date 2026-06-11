@@ -1,0 +1,10 @@
+#+title:      tgi
+#+date:       [2026-05-28 Thu 06:51]
+#+filetags:   :teaching:
+#+identifier: 20260528T065113
+
+* introduction
+
+This is my induction program.
+It stands for Teacher Growth and Induction.
+

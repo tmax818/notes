@@ -1,0 +1,11 @@
+#+title:      notes
+#+date:       [2026-06-09 Tue 08:16]
+#+filetags:   :learning:life:
+#+identifier: 20260609T081631
+
+* introduction
+
+I feel like my note system needs refinement.
+I like the idea of the [[denote:20260609T081727][slip-box]], but I feel like I am doing it wrong.
+[[denote:20260325T065552][orgmode]] seems like what I need.
+Adding [[denote:20260207T092237][denote]] seems to complicate things.

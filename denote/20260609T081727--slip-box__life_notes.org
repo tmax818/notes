@@ -1,0 +1,6 @@
+#+title:      slip-box
+#+date:       [2026-06-09 Tue 08:17]
+#+filetags:   :life:notes:
+#+identifier: 20260609T081727
+
+[[denote:20260306T164951][reading notes]]

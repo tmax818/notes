@@ -4,3 +4,5 @@
 #+identifier: 20260521T071324
 
 Can you prepare without [[denote:20260423T113724][Planning]]?
+Is [[denote:20260423T113724][Planning]] a form of preparation?
+It seems that it is. 

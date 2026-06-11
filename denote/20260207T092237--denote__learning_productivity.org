@@ -5,6 +5,8 @@
 
 * introduction
 
-The solution to the problem of multiple buckets is using denote as a single source of truth. I have, at the moment, at least two different directories called "chemistry" that contain different files created at different times. My plan is to have a denote file called [[denote:20260317T182245][chemistry]] that will contain metadata and links to other resources.
+The solution to the problem of multiple buckets is using denote as a single source of truth.
+I have, at the moment, at least two different directories called "chemistry" that contain different files created at different times.
+My plan is to have a denote file called [[denote:20260317T182245][chemistry]] that will contain metadata and links to other resources.
 
 The previous paragraph points to a feature, not a bug. 
