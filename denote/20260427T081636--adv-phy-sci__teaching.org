@@ -3,6 +3,103 @@
 #+filetags:   :teaching:class:
 #+identifier: 20260427T081636
 
-* introduction
+* units
 
-This class is my weakness. 
+| number | HMH                       | stickman                                               | Kahn                      |
+|      0 |                           |                                                        |                           |
+|--------+---------------------------+--------------------------------------------------------+---------------------------|
+|      1 | motion and forces         | 1D motion                                              | motion and forces         |
+|      2 | momentum and collisions   | 2D motion                                              | force pairs and momentum  |
+|      3 | force at a distance       | Newton's Laws and Force                                | gravitation               |
+|      4 | energy conversion         | Universal Gravitation and Circular motion              | electrostatics            |
+|      5 | electricity and magnetism | Work, Power, Mechanical Advantage, and Simple Machines | energy                    |
+|      6 | nulcear process           | Momentum, impulse, and connservationn of momentum      | electromagnetics          |
+|      7 | waves                     | electrostatics                                         | electromagnetic radiation |
+|      8 | stars                     | current and circuits                                   | Nuclear physiscs          |
+|      9 |                           | magnetism and electromagnetism                         |                           |
+|     10 |                           | intro to waves                                         |                           |
+|     11 |                           | electromagnetic waves                                  |                           |
+|     12 |                           | nuclear physics                                        |                           |
+
+** unit 0
+:properties:
+:title: introduction and unit analysis
+:end:
+
+*** vocabulary
+
+| term                | definition                                            |
+|---------------------+-------------------------------------------------------|
+| physics             | study of the physical world and natural phenomena     |
+| kinematics          | branch of physics that studies motion                 |
+| mks system          | meters,kilograms,seconds                              |
+| scientific notation | use multiples of 10 to express large or small numbers |
+|                     |                                                       |
+
+*** exercises
+
++ How **fast** are you traveling if you travel 15 meters in 5 seconds?
+
++ +$$ v = \frac{x}{t} $$  is the equation for speed(i.e. how fast)
+
+
+
+
+
+** unit 1
+:properties:
+:title: motion and forces
+:time: 20 days
+:end:
+
+** unit 2
+:properties:
+:title: momentum and collisions
+:time: 17 days
+:end:
+
+
+
+
+** unit 3
+:properties:
+:title: force at a distance
+:end:
+
+
+
+
+** unit 4
+:properties:
+:title: energy conversion
+:end:
+
+
+
+
+** unit 5
+:properties:
+:title: electrictity and magnetism
+:end:
+
+
+
+
+** unit 6
+:properties:
+:title: waves
+:end:
+
+
+
+
+
+** unit 7
+:properties:
+:title: nuclear process
+:end:
+
+
+* links
+
+[[/media/tyler/refs/pdf/HS-HMHCurriculumAlignmentMap.pdf][curriculum map]]

@@ -18,6 +18,8 @@ it's very messy
 
 *** follow a schedule
 
+** use LAUSD curriculum map [[https://docs.google.com/presentation/d/1il5mvCCTk1VVqyvXWroBXHlc5vmEtjXTqLin-iUv8zo/edit?slide=id.g381ff4209af_0_180#slide=id.g381ff4209af_0_180][(google slides)]]
+
 *** develop bathroom proceedure: place for planners needing signature
 
 *** private server for security and limit AI

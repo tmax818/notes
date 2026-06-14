@@ -145,7 +145,7 @@ It goes without saying, but still must be said again: thinking in more effective
 :end:
 
 #+begin_quote
-
+~
 Being organized means nothing more or less than where something is matches what it means to you.
 
 #+end_quote
