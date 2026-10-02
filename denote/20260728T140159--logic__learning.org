@@ -1,0 +1,5 @@
+#+title:      logic
+#+date:       [2026-07-28 Tue 14:01]
+#+filetags:   :learning:thinking:
+#+identifier: 20260728T140159
+

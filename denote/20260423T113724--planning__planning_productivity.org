@@ -7,8 +7,19 @@
 
 ** Proper planning prevents poor performance.
 
+*** planning session frequency
+
+- planning should take place on a daily, weekly, monthly and annual basis.
+
+  
+
+*** lesson planning
+
 One area under this category is [[denote:20260421T075417][lesson plan]]ing.
 You can't engage in [[denote:20260421T075751][lesson preparation]] until you make a [[denote:20260421T075417][lesson plan]]!
+
+*** gtd
+
 There is also planning associated with [[denote:20260323T073117][gtd]].
 I think that [[denote:20260423T114129][goal setting]] is the same as planning.
 

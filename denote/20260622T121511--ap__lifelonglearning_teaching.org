@@ -1,0 +1,8 @@
+#+title:      ap
+#+date:       [2026-06-22 Mon 12:15]
+#+filetags:   :lifelonglearning:teaching:
+#+identifier: 20260622T121511
+
+* intro
+
+see also advanced placement.

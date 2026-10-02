@@ -1,0 +1,5 @@
+#+title:      guitar
+#+date:       [2026-06-24 Wed 13:16]
+#+filetags:   :music:
+#+identifier: 20260624T131647
+

@@ -1,0 +1,12 @@
+#+title:      java
+#+date:       [2026-06-16 Tue 11:37]
+#+filetags:   :programming:
+#+identifier: 20260616T113720
+
+* intro
+
+This fucking programming language jumped on my radar again.
+I used to teach it! 
+AP CS uses it!
+
+

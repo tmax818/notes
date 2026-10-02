@@ -10,6 +10,9 @@ A book about [[denote:20260421T081038][teaching]]. I don't have a pdf of this bo
 * notes
 
 ** chapter 1
+:properties:
+:title: mental models and purposeful execution
+:end:
 
 *** five themes:
 
@@ -20,6 +23,6 @@ A book about [[denote:20260421T081038][teaching]]. I don't have a pdf of this bo
 **** Teaching well is relationship building
 
 
-
+** chapter 2
 * citation?
 

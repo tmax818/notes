@@ -1,0 +1,5 @@
+#+title:      computer science
+#+date:       [2026-06-22 Mon 12:15]
+#+filetags:   :lifelonglearning:programming:teaching:
+#+identifier: 20260622T121533
+

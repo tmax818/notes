@@ -1,0 +1,8 @@
+#+title:      rick and morty
+#+date:       [2026-06-16 Tue 11:52]
+#+filetags:   :life:
+#+identifier: 20260616T115245
+
+* intro
+
+I have to have a file for **rick and morty**

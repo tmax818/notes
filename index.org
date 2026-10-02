@@ -3,11 +3,30 @@
 #+startup: num
 #+bibliography: bibliography.bib
 
-* introduction :notes:
 
-In the interest of having a mimimum number of "buckets," This document will serve as a reference for notes.
-It seems the need for a separate directory for some topics rises immediately as in the case with any programming language.
-Creating a separate repo for each programming language would create the problem of nested repos.
-However, a repository for reading notes of a particular book would obviate the need for a central location for large files (i.e. pdfs or epubs).
-A link to repos can be included in denote files which would help minimize Dropbox space.
+In the interest of having a mimimum number of "[[buckets][buckets]]," This document will serve as a reference for [[notes][notes]].
+Designing this system seems to be part of the [[system][system]].
+It seems the need for a separate [[directory][directory]] for some topics rises immediately as in the case with any [[programming language][programming language]].
+Creating a separate repo for each programming language would create the problem of nested [[repository][repos]].
+However, a [[repository][repository]] for reading notes of a particular book would obviate the need for a central location for large files (i.e. pdfs or epubs).
+A link to repos can be included in [[denote][denote]] files which would help minimize Dropbox space.
 
+
+
+* buckets
+* test
+* notes
+
+
+
+* system
+- [[https://en.wikipedia.org/wiki/System][wikipedia]]
+
+* programming language
+- [[https://en.wikipedia.org/wiki/programming_language][wikipedia]]
+
+* directory
+- [[https://en.wikipedia.org/wiki/Directory_(computing)][wikipedia]]
+* denote
+- [[https://github.com/protesilaos/denote][repo]]
+* repository
