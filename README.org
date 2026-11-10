@@ -8,5 +8,4 @@
 This will be the single repository or "bucket" for my notes.
 [[file:denote/20260207T092237--denote__learning_productivity.org][Denote]] files will contain links to reference materials and works in progress.
 This is my "slipbox" or my "zettlekasten".
-
-The proliferation of files seems to be a problem.  
+  
