@@ -1,4 +1,9 @@
-#+title: my_notes
+#+title: index.org (my_notes)
 #+startup: num
 
-* 
+* ngss
+
+** a framework for k-12 science education
+
+
+* python
