@@ -5,7 +5,7 @@
 #+bibliography: bibliography.bib
 
 
-In the interest of having a mimimum number of "[[buckets][buckets]]," this document will serve as a reference for my [[notes][notes]].
+In the interest of having a minimum number of "[[buckets][buckets]]," this document will serve as a reference for my [[notes][notes]].
 Designing this system seems to be part of the [[system][system]].
 It seems the need for a separate [[directory][directory]] for some topics rises immediately as in the case with any [[programming language][programming language]].
 Creating a separate repo for each programming language would create the problem of nested [[repository][repos]].
